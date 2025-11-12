@@ -23,19 +23,18 @@ def main():
     )
     
     if not chapter_files:
-        print("❌ No chapter files found in data/chapters/")
+        print("No chapter files found in data/chapters/")
         return
     
-    print(f"📚 Loading {len(chapter_files)} chapters...\n")
     for file in chapter_files:
         chapter_path = os.path.join(CHAPTERS_DIR, file)
         with open(chapter_path, "r", encoding="utf-8") as f:
             text = f.read()
             all_texts.append(text)
-            print(f"✅ Loaded {file} ({len(text)} characters)")
+            print(f"Loaded {file} ({len(text)} characters)")
     
     full_text = "\n".join(all_texts)
-    print(f"\n📘 Combined text length: {len(full_text)} characters\n")
+    print(f"\n Combined text length: {len(full_text)} characters\n")
     
     # --- Model & parser setup ---
     model = ChatOpenAI(model="gpt-4o-mini")
@@ -55,7 +54,7 @@ def main():
     # --- Split into chunks ---
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
     chunks = text_splitter.split_text(full_text)
-    print(f"🔹 Split into {len(chunks)} total chunks\n")
+    print(f"Split into {len(chunks)} total chunks\n")
     
     # --- Embeddings ---
     embeddings = OpenAIEmbeddings()
@@ -71,9 +70,9 @@ def main():
             metric="cosine",
             spec=ServerlessSpec(cloud="aws", region="us-east-1")
         )
-        print(f"✅ Created new Pinecone index: {index_name}")
+        print(f"Created new Pinecone index: {index_name}")
     else:
-        print(f"🔗 Using existing Pinecone index: {index_name}")
+        print(f"Using existing Pinecone index: {index_name}")
     
     # --- Store all chapter chunks in Pinecone ---
     vectorstore = PineconeVectorStore.from_texts(chunks, embeddings, index_name=index_name)
@@ -93,9 +92,9 @@ def main():
     )
     
     # --- Ask a question ---
-    query = input("\n🔎 Enter your question: ")
+    query = input("\n Enter your question: ")
     result = chain.invoke(query)
-    print("\n💬 Answer:\n", result)
+    print("\n Answer:\n", result)
 
 if __name__ == "__main__":
     main()
