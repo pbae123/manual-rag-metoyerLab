@@ -10,37 +10,41 @@ from langchain_core.runnables import RunnablePassthrough
 from pinecone import Pinecone as PineconeClient, ServerlessSpec
 
 def main():
+    #allows you to access environment variables
     load_dotenv()
     
     OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
     PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
     CHAPTERS_DIR = "data/chapters"
     
-    # --- Load and concatenate all chapters ---
-    all_texts = []
-    chapter_files = sorted(
+    all_texts = []  #empty list that will later hold content of each chapter file
+
+    chapter_files = sorted( #alphabetically sorting chapter names 
         [f for f in os.listdir(CHAPTERS_DIR) if f.endswith(".txt")]
     )
     
-    if not chapter_files:
+    if not chapter_files:  #if no chapter files 
         print("No chapter files found in data/chapters/")
         return
     
-    for file in chapter_files:
-        chapter_path = os.path.join(CHAPTERS_DIR, file)
+    for file in chapter_files: #looping over list of filenames 
+        chapter_path = os.path.join(CHAPTERS_DIR, file) #creates full path to file 
         with open(chapter_path, "r", encoding="utf-8") as f:
-            text = f.read()
-            all_texts.append(text)
+            text = f.read()  #read file as single string 
+            all_texts.append(text)  #add it to empty list, will contain all chapters at the end 
             print(f"Loaded {file} ({len(text)} characters)")
     
-    full_text = "\n".join(all_texts)
-    print(f"\n Combined text length: {len(full_text)} characters\n")
+    full_text = "\n".join(all_texts) #just combining everything into one text block
+    print(f"\n Combined text length: {len(full_text)} characters\n") 
     
-    # --- Model & parser setup ---
+    #setup model and parser 
     model = ChatOpenAI(model="gpt-4o-mini")
-    parser = StrOutputParser()
+    parser = StrOutputParser() #converts response into a clean string, readable 
     
-    # --- Prompt template ---
+    #prompt template
+    #instructions: how to answer 
+    #context: retrieved text from pdf 
+    #question: user's query 
     template = """
     Answer the question based on the following context. 
     If you can't find the answer, just say that you don't know.
@@ -49,17 +53,20 @@ def main():
     
     Question: {question}
     """
-    prompt = ChatPromptTemplate.from_template(template)
+    #automatically converts template into format that will be sent to OpenAI model 
+    prompt = ChatPromptTemplate.from_template(template)  
     
-    # --- Split into chunks ---
+    #chunking 
+    #defines how to split text into overlapping parts 
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
+    #actually splits the document 
     chunks = text_splitter.split_text(full_text)
     print(f"Split into {len(chunks)} total chunks\n")
     
-    # --- Embeddings ---
+    #embeddings
     embeddings = OpenAIEmbeddings()
     
-    # --- Pinecone setup ---
+    #pinecone setup 
     index_name = "manualrag"
     pc = PineconeClient(api_key=PINECONE_API_KEY)
     
@@ -74,7 +81,7 @@ def main():
     else:
         print(f"Using existing Pinecone index: {index_name}")
     
-    # --- Store all chapter chunks in Pinecone ---
+    #store all chapter chunks in Pinecone 
     vectorstore = PineconeVectorStore.from_texts(chunks, embeddings, index_name=index_name)
     
     # --- Build retriever ---
