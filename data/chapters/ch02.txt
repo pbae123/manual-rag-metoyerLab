@@ -1,0 +1,493 @@
+  37CHAPTER TWO
+THE PSYCHOLOGY 
+OF EVERYDAY 
+ACTIONS
+During my family’s stay in England, we rented a furnished house while 
+the owners were away. One day, our landlady returned to the house to get some personal papers. She walked over to the old, metal filing cabinet and attempted to open the top drawer. It wouldn’t open. She pushed it forward and backward, right and left, up and down, without success. I offered to help. I wiggled the drawer. Then I twisted the front panel, pushed down hard, and banged the front with the palm of one hand. The cabinet drawer slid open. “Oh,” she said, “I’m sorry. I am so bad at mechanical things.” No, she had it backward. It is the mechanical thing that should be apologizing, perhaps saying, “I’m sorry. I am so bad with people.”
+My landlady had two problems. First, although she had 
+a clear goal (retrieve some personal papers) and even a plan for achieving that goal (open the top drawer of the filing cabinet, where those papers are kept), once 
+that plan failed, she had no idea of what to do. But she also had a second problem: she thought the problem lay in her own lack of ability: she blamed herself, falsely.
+How was I able to help? First, I refused to accept the false accu-
+sation that it was the fault of the landlady: to me, it was clearly a fault in the mechanics of the old filing cabinet that prevented the drawer from opening. Second, I had a conceptual model of how the cabinet worked, with an internal mechanism that held the door shut in normal usage, and the belief that the drawer mechanism was probably out of alignment. This conceptual model gave me a plan: wiggle the drawer. That failed. That caused me    to modify 
+9780465050659-text.indd   379780465050659-text.indd   37 8/19/13   5:22 PM8/19/13   5:22 PM
+
+38 The Design of Everyday Thingsmy plan: wiggling may have been appropriate but not forceful 
+enough, so I resorted to brute for ce to try to twist the cabinet back 
+into its proper alignment. This felt good to me—the cabinet drawer 
+moved slightly—but it still didn’t open. So I resorted to the most powerful tool employed by experts the world around—I banged on the cabinet. And yes, it opened. In my mind, I decided (without any evidence) that my hit had jarred the mechanism sufficiently to allow the drawer to open.
+This example highlights the themes of this chapter. First, how do 
+people do things? It is easy to learn a few basic steps to perform operations with our technologies (and yes, even filing cabinets are technology). But what happens when things go wrong? How do we detect that they aren’t working, and then how do we know what to do? To help understand this, I first delve into human psy-chology and a simple conceptual model of how people select and then evaluate their actions. This leads the discussion to the role of understanding (via a conceptual model) and of emotions: pleasure when things work smoothly and frustration when our plans are thwarted. Finally, I conclude with a summary of how the lessons of this chapter translate into principles of design.
+How People Do Things: 
+The Gulfs of Execution and Evaluation
+When people use something, they face two gulfs: the Gulf of Exe-cution, where they try to figure out how it operates, and the Gulf of Evaluation, where they try to figure out what happened (Fig-ure 2.1). The role of the designer is to help people bridge the two gulfs.
+In the case of the filing cabinet, there were visible elements that 
+helped bridge the Gulf of Execution when everything was work-ing perfectly. The drawer handle clearly signified that it should be pulled and the slider on the handle indicated how to release the catch that normally held the drawer in place. But when these oper-ations failed, there then loomed a big gulf: what other operations could be done to open the drawer?
+9780465050659-text.indd   389780465050659-text.indd   38 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ two:  The Psychology of Everyday Actions 39The Gulf of Evaluation 
+was easily bridged, at first. 
+That is, the catch was re-leased, the drawer handle pulled, yet nothing hap-pened. The lack of action signified a failure to r each 
+the goal. But when other operations were tried, such as my twisting and pull-ing, the filing cabinet pro-vided no more information about whether I was get-ting closer to the goal.
+The Gulf of Evaluation 
+reflects the amount of ef-fort that the person must make to interpret the phys-ical state of the device and to determine how well the expectations and intentions have been met. The gulf is small when the device provides information about its state in a form that is easy to get, is easy to interpret, and matches the way the person thinks about the system. What are the major design elements that help bridge the Gulf of Evaluation? Feedback and a good conceptual model.
+The gulfs are present for many devices. Interestingly, many peo-
+ple do experience difficulties, but explain them away by blaming themselves. In the case of things they believe they should be capa-ble of using—water faucets, refrigerator temperature controls, stove tops—they simply think, “I’m being stupid.” Alternatively, for com-plicated-looking devices—sewing machines, washing machines, digital watches, or almost any digital controls—they simply give up, deciding that they are incapable of understanding them. Both expla-nations are wrong. These are the things of everyday household use. None of them has a complex underlying structure. The difficulties reside in their design, not in the people attempting to use them.
+FIGURE 2.1.  The Gulfs of Execution and Eval-
+uation.  When people encounter a device, they 
+face two gulfs: the Gulf of Execution, where they 
+try to figure out how to use it, and the Gulf of Evaluation, where they try to figure out what state it is in and whether their actions got them to their goal.
+9780465050659-text.indd   399780465050659-text.indd   39 8/19/13   5:22 PM8/19/13   5:22 PM
+
+40 The Design of Everyday ThingsHow can the designer help bridge the two gulfs? To answer that 
+question, we need to delve more deeply into the psychology of 
+human action. But the basic tools have already been discussed: We bridge the Gulf of Execution through the use of signifiers, con-straints, mappings, and a conceptual model. We bridge the Gulf of Evaluation through the use of feedback and a conceptual model.
+The Seven Stages of Action
+There are two parts to an action: executing the action and then evaluating the results: doing and interpreting. Both execution and evaluation require understanding: how the item works and what results it produces. Both execution and evaluation can affect our emotional state.
+Suppose I am sitting in my armchair, reading a book. It is dusk, 
+and the light is getting dimmer and dimmer. My current activity is reading, but that goal is starting to fail because of the decreasing illumination. This realization triggers a new goal: get more light. How do I do that? I have many choices. I could open the curtains, move so that I sit where there is more light, or perhaps turn on a nearby light. This is the planning stage, determining which of the many possible plans of action to follow. But even when I decide to turn on the nearby light, I still have to determine how to get it done. I could ask someone to do it for me, I could use my left hand or my right. Even after I have decided upon a plan, I still have to specify how I will do it. Finally, I must execute—do—the action. When I am doing a frequent act, one for which I am quite experi-enced and skilled, most of these stages are subconscious. When I am still learning how to do it, determining the plan, specifying the sequence, and interpreting the result are conscious.
+Suppose I am driving in my car and my action plan requires me 
+to make a left turn at a street intersection. If I am a skilled driver, I don’t have to give much conscious attention to specify or per-form the action sequence. I think “left” and smoothly execute the required action sequence. But if I am just learning to drive, I have to think about each separate component of the action. I must ap-ply the brakes and check for cars behind and around me, cars and 
+9780465050659-text.indd   409780465050659-text.indd   40 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ two:  The Psychology of Everyday Actions 41pedestrians in front of me, 
+and whether there are traf-fic signs or signals that I have to obey. I must move my feet back and forth be-tween pedals and my hands to the turn signals and back to the steering wheel (while I try to remember just how my instructor told me I should position my hands while making a turn), and my visual attention is di-vided among all the activ-ity around me, sometimes looking directly, some-times r otating my head, 
+and sometimes using the rear- and side-view mirrors. To the skilled driver, it is all easy and straightforward. To the beginning driver, the task seems impossible.
+The specific actions bridge the gap between what we would 
+like to have done (our goals) and all possible physical actions to achieve those goals. After we specify what actions to make, we must actually do them—the stages of execution. There are three stages of execution that follow from the goal: plan, specify, and perform (the left side of Figure 2.2). Evaluating what happened has three stages: first, perceiving what happened in the world; second, trying to make sense of it (interpreting it); and, finally, comparing what happened with what was wanted (the right side of Figure 2.2).
+There we have it. Seven stages of action: one for goals, three for 
+execution, and three for evaluation (Figure 2.2).
+1. Goal (form the goal) 5. Perceive (the state of the world)
+2. Plan (the action) 6. Interpret (the perception)
+3. Specify (an action sequence) 7. Compare (the outcome with the goal)
+4. Perform (the action sequence)
+FIGURE 2.2.  The Seven Stages of the Action 
+Cycle.  Putting all the stages together yields the 
+three stages of execution (plan, specify, and per-
+form), three stages of evaluation (perceive, in-terpret, and compare), and, of course, the goal: seven stages in all.
+9780465050659-text.indd   419780465050659-text.indd   41 8/19/13   5:22 PM8/19/13   5:22 PM
+
+42 The Design of Everyday ThingsThe seven-stage action cycle is simplified, but it provides a use-
+ful framework for understanding human action and for guiding 
+design. It has proven to be helpful in designing interaction. Not all of the activity in the stages is conscious. Goals tend to be, but even they may be subconscious. We can do many actions, repeatedly cycling through the stages while being blissfully unaware that we are doing so. It is only when we come across something new or reach some impasse, some problem that disrupts the normal flow of activity, that conscious attention is required.
+Most behavior does not require going through all stages in se-
+quence; however, most activities will not be satisfied by single ac-tions. There must be numerous sequences, and the whole activity may last hours or even days. There are multiple feedback loops in which the results of one activity are used to direct further ones, in which goals lead to subgoals, and plans lead to subplans. There are activities in which goals are forgotten, discarded, or reformulated.
+Let’s go back to my act of turning on the light. This is a case of 
+event-driven behavior: the sequence starts with the world, caus-ing evaluation of the state and the formulation of a goal. The trig-ger was an environmental event: the lack of light, which made reading difficult. This led to a violation of the goal of reading, so it led to a subgoal—get more light. But reading was not the high-level goal. For each goal, one has to ask, “Why is that the goal?” Why was I reading? I was trying to prepare a meal using a new recipe, so I needed to reread it before I started. Reading was thus a subgoal. But cooking was itself a subgoal. I was cooking in or-der to eat, which had the goal of satisfying my hunger. So the hierarchy of goals is roughly: satisfy hunger; eat; cook; read cook-book; get more light. This is called a root cause analysis: asking “Why?” until the ultimate, fundamental cause of the activity is reached.
+The action cycle can start from the top, by establishing a new 
+goal, in which case we call it goal-driven behavior. In this situ-ation, the cycle starts with the goal and then goes through the three stages of execution. But the action cycle can also start from the bottom, triggered by some event in the world, in which case we 
+9780465050659-text.indd   429780465050659-text.indd   42 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ two:  The Psychology of Everyday Actions 43call it either data-driven or event-driven behavior. In this situation, 
+the cycle starts with the environment, the world, and then goes through the three stages of evaluation.
+For many everyday tasks, goals and intentions are not well spec-
+ified: they are opportunistic rather than planned. Opportunistic actions are those in which the behavior takes advantage of circum-
+stances. Rather than engage in extensive planning and analysis, we 
+go about the day’s activities and do things as opportunities arise. Thus, we may not have planned to try a new café or to ask a question of a friend. Rather, we go through the day’s activities, and if we find ourselves near the café or encountering the friend, then we allow the opportunity to trigger the appropriate activity . Otherwise, we might 
+never get to that café or ask our friend the question. For crucial tasks we make special efforts to ensure that they get done. Oppor-tunistic actions are less precise and certain than specified goals and intentions, but they result in less mental effort, less inconvenience, and perhaps more interest. Some of us adjust our lives around the expectation of opportunities. And sometimes, even for goal-driven behavior, we try to create world events that will ensure that the sequence gets completed. For example, sometimes when I must do an important task, I ask someone to set a deadline for me. I use the approach of that deadline to trigger the work. It may only be a few hours before the deadline that I actually get to work and do the job, but the important point is that it does get done. This self-triggering of external drivers is fully compatible with the seven-stage analysis.
+The seven stages provide a guideline for developing new prod-
+ucts or services. The gulfs are obvious places to start, for either gulf, whether of execution or evaluation, is an opportunity for product enhancement. The trick is to develop observational skills to detect them. Most innovation is done as an incremental enhancement of existing products. What about radical ideas, ones that introduce new product categories to the marketplace? These come about by reconsidering the goals, and always asking what the real goal is: what is called the root cause analysis.
+Harvard Business School marketing professor Theodore Levitt 
+once pointed out, “People don’t want to buy a quarter-inch drill. 
+9780465050659-text.indd   439780465050659-text.indd   43 8/19/13   5:22 PM8/19/13   5:22 PM
+
+44 The Design of Everyday ThingsThey want a quarter-inch hole!” Levitt’s example of the drill im-
+plying that the goal is really a hole is only partially correct, how-ever. When people go to a store to buy a drill, that is not their real goal. But why would anyone want a quarter-inch hole? Clearly that is an intermediate goal. Perhaps they wanted to hang shelves on the wall. Levitt stopped too soon.
+Once you realize that they don’t really want the drill, you realize 
+that perhaps they don’t really want the hole, either: they want to install their bookshelves. Why not develop methods that don’t re-quire holes? Or perhaps books that don’t require bookshelves. (Yes, I know: electronic books, e-books.)
+Human Thought: Mostly Subconscious
+Why do we need to know about the human mind? Because things are designed to be used by people, and without a deep under-standing of people, the designs are apt to be faulty, difficult to use, difficult to understand. That is why it is useful to consider the seven stages of action. The mind is more difficult to comprehend than actions. Most of us start by believing we already understand both human behavior and the human mind. After all, we are all hu-man: we have all lived with ourselves all of our lives, and we like to think we understand ourselves. But the truth is, we don’t. Most of human behavior is a result of subconscious processes. We are unaware of them. As a result, many of our beliefs about how peo-ple behave—including beliefs about ourselves—are wrong. That is why we have the multiple social and behavioral sciences, with a good dash of mathematics, economics, computer science, informa-tion science, and neuroscience.
+Consider the following simple experiment. Do all three steps:
+1. Wiggle the second finger of your hand.
+2. Wiggle the third finger of the same hand.3. Describe what you did differently those two times.
+On the surface, the answer seems simple: I thought about mov-
+ing my fingers and they moved. The difference is that I thought 
+9780465050659-text.indd   449780465050659-text.indd   44 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ two:  The Psychology of Everyday Actions 45about a different finger each time. Yes, that’s true. But how did that 
+thought get transmitted into action, into the commands that caused different muscles in the arm to control the tendons that wiggled the fingers? This is completely hidden from consciousness.
+The human mind is immensely complex, having evolved over 
+a long period with many specialized structures. The study of the mind is the subject of multiple disciplines, including the behav-ioral and social sciences, cognitive science, neuroscience, philos-ophy, and the information and computer sciences. Despite many advances in our understanding, much still remains mysterious, yet to be learned. One of the mysteries concerns the nature of and dis-tinction between those activities that are conscious and those that are not. Most of the brain’s operations are subconscious, hidden beneath our awareness. It is only the highest level, what I call re-
+flective, that is conscious.
+Conscious attention is necessary to learn most things, but after 
+the initial learning, continued practice and study, sometimes for thousands of hours over a period of years, produces what psychol-ogists call “overlearning,” Once skills have been overlearned, per-formance appears to be effortless, done automatically, with little or no awareness. For example, answer these questions:
+What is the phone number of a friend?
+What is Beethoven’s phone number?What is the capital of: • Brazil? • Wales? • The United States? • Estonia?
+Think about how you answered these questions. The answers 
+you knew come immediately to mind, but with no awareness of 
+how that happened. You simply “know” the answer. Even the ones you got wrong came to mind without any awareness. You might have been aware of some doubt, but not of how the name entered your consciousness. As for the countries for which you didn’t 
+9780465050659-text.indd   459780465050659-text.indd   45 8/19/13   5:22 PM8/19/13   5:22 PM
+
+46 The Design of Everyday Thingsknow the answer, you probably knew you didn’t know those im-
+mediately, without effort. Even if you knew you knew, but couldn’t quite recall it, you didn’t know how you knew that, or what was happening as you tried to remember.
+You might have had trouble with the phone number of a friend 
+because most of us have turned over to our technology the job of remembering phone numbers. I don’t know anybody’s phone number—I barely remember my own. When I wish to call some-one, I just do a quick search in my contact list and have the tele-phone place the call. Or I just push the “2” button on the phone for a few seconds, which autodials my home. Or in my auto, I can simply speak: “Call home.” What’s the number? I don’t know: my technology knows. Do we count our technology as an extension of our memory systems? Of our thought processes? Of our mind?
+What about Beethoven’s phone number? If I asked my computer, 
+it would take a long time, because it would have to search all the people I know to see whether any one of them was Beethoven. But you immediately discarded the question as nonsensical. You 
+don’t personally know Beethoven. And anyway, he is dead. Be-
+sides, he died in the early 1800s and the phone wasn’t invented until the late 1800s. How do we know what we do not know so rapidly? Yet some things that we do know can take a long time to retrieve. For example, answer this:
+In the house you lived in three houses ago, as you entered the front door, 
+was the doorknob on the left or right?
+Now you have to engage in conscious, reflective problem solv-
+ing, first to retrieve just which house is being talked about, and 
+then what the correct answer is. Most people can determine the house, but have difficulty answering the question because they can readily imagine the doorknob on both sides of the door. The way to solve this problem is to imagine doing some activity, such as walk-ing up to the front door while carrying heavy packages with both hands: how do you open the door? Alternatively, visualize yourself inside the house, rushing to the front door to open it for a visitor. 
+9780465050659-text.indd   469780465050659-text.indd   46 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ two:  The Psychology of Everyday Actions 47Usually one of these imagined scenarios provides the answer. But 
+note how different the memory retrieval for this question was from the retrieval for the others. All these questions involved long-term memory, but in very different ways. The earlier questions were memory for factual information, what is called declarative memory. 
+The last question could have been answered factually, but is usu-ally most easily answered by recalling the activities performed to open the door. This is called procedural memory.  I return to a discus-
+sion of human memory in Chapter 3.
+Walking, talking, reading. Riding a bicycle or driving a car. Sing-
+ing. All of these skills take considerable time and practice to mas-ter, but once mastered, they are often done quite automatically. For experts, only especially difficult or unexpected situations require conscious attention.
+Because we are only aware of the reflective level of conscious 
+processing, we tend to believe that all human thought is con-scious. But it isn’t. We also tend to believe that thought can be 
+separated from emotion. This is also false. Cognition and emo-tion cannot be separated. Cognitive thoughts lead to emotions: emotions drive cognitive thoughts. The brain is structured to act upon the world, and every action carries with it expectations, and these expectations drive emotions. That is why much of language is based on physical metaphors, why the body and its interaction with the environment are essential components of human thought.
+Emotion is highly underrated. In fact, the emotional system is 
+a powerful information processing system that works in tandem with cognition. Cognition attempts to make sense of the world: emotion assigns value. It is the emotional system that determines whether a situation is safe or threatening, whether something that is happening is good or bad, desirable or not. Cognition provides understanding: emotion provides value judgments. A human with-out a working emotional system has difficulty making choices. A human without a cognitive system is dysfunctional.
+Because much human behavior is subconscious—that is, it oc-
+curs without conscious awareness—we often don’t know what we are about to do, say, or think until after we have done it. It’s as 
+9780465050659-text.indd   479780465050659-text.indd   47 8/19/13   5:22 PM8/19/13   5:22 PM
+
+48 The Design of Everyday Thingsif we had two minds: the subconscious and the conscious, which 
+don’t always talk to each other. Not what you have been taught? True, nonetheless. More and more evidence is accumulating that we use logic and reason after the fact, to justify our decisions to ourselves (to our conscious minds) and to others. Bizarre? Yes, but don’t protest: enjoy it.
+Subconscious thought matches patterns, finding the best possible 
+match of one’s past experience to the current one. It proceeds rap-idly and automatically, without effort. Subconscious processing is one of our strengths. It is good at detecting general trends, at recog-nizing the relationship between what we now experience and what has happened in the past. And it is good at generalizing, at making predictions about the general trend, based on few examples. But subconscious thought can find matches that are inappropriate or wrong, and it may not distinguish the common from the rare. Sub-conscious thought is biased toward regularity and structure, and it is limited in formal power. It may not be capable of symbolic ma-nipulation, of careful reasoning through a sequence of steps.
+Conscious thought is quite different. It is slow and labored. 
+Here is where we slowly ponder decisions, think through alter-natives, compare different choices. Conscious thought considers first this approach, then that—comparing, rationalizing, finding explanations. Formal logic, mathematics, decision theory: these are the tools of conscious thought. Both conscious and subconscious modes of thought are powerful and essential aspects of human life. Both can provide insightful leaps and creative moments. And both are subject to errors, misconceptions, and failures.
+Emotion interacts with cognition biochemically, bathing the brain 
+with hormones, transmitted either through the bloodstream or through ducts in the brain, modifying the behavior of brain cells. Hormones exert powerful biases on brain operation. Thus, in tense, threatening situations, the emotional system triggers the release of hormones that bias the brain to focus upon relevant parts of the environment. The muscles tense in preparation for action. In calm, nonthreatening situations, the emotional system triggers the release of hormones that relax the muscles and bias the brain toward explo-
+9780465050659-text.indd   489780465050659-text.indd   48 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ two:  The Psychology of Everyday Actions 49ration and creativity. Now the brain is more apt to notice changes in 
+the environment, to be distracted by events, and to piece together events and knowledge that might have seemed unrelated earlier.
+A positive emotional state is ideal for creative thought, but it is 
+not very well suited for getting things done. Too much, and we call the person scatterbrained, flitting from one topic to another, unable to finish one thought before another comes to mind. A brain in a negative emotional state provides focus: precisely what is needed to maintain attention on a task and finish it. Too much, however, and we get tunnel vision, where people are unable to look beyond their narrow point of view. Both the positive, relaxed state and the anxious, negative, and tense state are valuable and powerful tools for human creativity and action. The extremes of both states, how-ever, can be dangerous.
+Human Cognition and Emotion
+The mind and brain are complex entities, still the topic of con-siderable scientific research. One valuable explanation of the lev-els of processing within the brain, applicable to both cognitive and emotional processing, is to think of three different levels of processing, each quite different from the other, but all working together in concert. Although this is a gross oversimplification of the actual processing, it is a good enough approximation to provide guidance in understanding human behavior . The approach 
+I use here comes from my book Emotional Design. There, I suggested Subconscious  Conscious
+Fast Slow
+Automatic ControlledMultiple resources Limited resources
+Controls skilled behavior  Invoked for novel situations: when 
+learning, when in danger, when things go wrongTABLE 2.1.  Subconscious and Conscious Systems of Cognition
+9780465050659-text.indd   499780465050659-text.indd   49 8/19/13   5:22 PM8/19/13   5:22 PM
+
+50 The Design of Everyday Thingsthat a useful approximate model of human cognition and emotion 
+is to consider three levels of processing: visceral, behavioral, and reflective.
+THE VISCERAL LEVEL
+The most basic level of processing is called visceral. This is some-times referred to as “the lizard brain.” All people have the same ba-sic visceral responses. These are part of the basic protective mech-anisms of the human affective system, making quick judgments about the environment: good or bad, safe or dangerous. The visceral system allows us to respond quickly and subconsciously, without 
+conscious awareness or control. The basic biology of the visceral system minimizes its ability to learn. Visceral learning takes place primarily by sensitization or desensitization through such mechanisms as adaptation and classical conditioning. Visceral responses are fast and automatic. 
+They give rise to the startle reflex for novel, unexpected events; for such genetically programmed behavior as fear of heights, dis-like of the dark or very noisy environments, dislike of bitter 
+tastes and the liking of sweet tastes, and so on. Note that the visceral level responds to the immediate present and produces an affective state, relatively unaffected by context or history. It simply assesses the situation: no cause is assigned, no blame, and no credit.
+The visceral level is tightly coupled to the body’s musculature—
+the motor system. This is what causes animals to fight or flee, or to relax. An animal’s (or person’s) visceral state can often be read by analyzing the tension of the body: tense means a negative state; re-laxed, a positive state. Note, too, that we often determine our own body state by noting our own musculature. A common self-report 
+FIGURE 2.3.  Three Levels of Process-
+ing: Visceral, Behavioral, and Reflective.  
+Visceral and behavioral levels are subcon-
+scious and the home of basic emotions. The reflective level is where conscious thought and decision-making reside, as well as the highest level of emotions.
+9780465050659-text.indd   509780465050659-text.indd   50 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ two:  The Psychology of Everyday Actions 51might be something like, “I was tense, my fists clenched, and I 
+was sweating.”
+Visceral responses are fast and completely subconscious. They 
+are sensitive only to the current state of things. Most scientists do not call these emotions: they are precursors to emotion. Stand at the edge of a cliff and you will experience a visceral response. Or bask in the warm, comforting glow after a pleasant experience, perhaps a nice meal.
+For designers, the visceral response is about immediate per-
+ception: the pleasantness of a mellow, harmonious sound or the jarring, irritating scratch of fingernails on a rough surface. Here is where the style matters: appearances, whether sound or sight, touch or smell, drive the visceral response. This has nothing to do with how usable, effective, or understandable the product is. It is all about attraction or repulsion. Great designers use their aesthetic sensibilities to drive these visceral responses.
+Engineers and other logical people tend to dismiss the visceral 
+response as irrelevant. Engineers are proud of the inherent qual-ity of their work and dismayed when inferior products sell better “just because they look better.” But all of us make these kinds of judgments, even those very logical engineers. That’s why they love some of their tools and dislike others. Visceral responses matter.
+THE BEHA VIORAL LEVEL
+The behavioral level is the home of learned skills, triggered by sit-
+uations that match the appropriate patterns. Actions and analyses at this level are largely subconscious. Even though we are usually aware of our actions, we are often unaware of the details. When we speak, we often do not know what we are about to say until our conscious mind (the reflective part of the mind) hears ourselves uttering the words. When we play a sport, we are prepared for ac-tion, but our responses occur far too quickly for conscious control: it is the behavioral level that takes control.
+When we perform a well-learned action, all we have to do is 
+think of the goal and the behavioral level handles all the details: the conscious mind has little or no awareness beyond creating the 
+9780465050659-text.indd   519780465050659-text.indd   51 8/19/13   5:22 PM8/19/13   5:22 PM
+
+52 The Design of Everyday Thingsdesire to act. It’s actually interesting to keep trying it. Move the left 
+hand, then the right. Stick out your tongue, or open your mouth. What did you do? You don’t know. All you know is that you “willed” the action and the correct thing happened. You can even make the actions more complex. Pick up a cup, and then with the same hand, pick up several more items. You automatically adjust the fingers and the hand’s orientation to make the task possible. You only need to pay conscious attention if the cup holds some liq-uid that you wish to avoid spilling. But even in that case, the actual control of the muscles is beneath conscious perception: concentrate on not spilling and the hands automatically adjust.
+For designers, the most critical aspect of the behavioral level is 
+that every action is associated with an expectation. Expect a positive outcome and the result is a positive affective response (a “posi-tive valence,” in the scientific literature). Expect a negative outcome and the result is a negative affective response (a negative valence): dread and hope, anxiety and anticipation. The information in the feedback loop of evaluation confirms or disconfirms the expecta-tions, resulting in satisfaction or relief, disappointment or frustration.
+Behavioral states are learned. They give rise to a feeling of con-
+trol when there is good understanding and knowledge of results, and frustration and anger when things do not go as planned, and especially when neither the reason nor the possible remedies are known. Feedback provides reassurance, even when it indicates a negative result. A lack of feedback creates a feeling of lack of con-trol, which can be unsettling. Feedback is critical to managing ex-pectations, and good design provides this. Feedback—knowledge of results—is how expectations are resolved and is critical to learn-ing and the development of skilled behavior.
+Expectations play an important role in our emotional lives. This 
+is why drivers tense when trying to get through an intersection be-fore the light turns red, or students become highly anxious before an exam. The release of the tension of expectation creates a sense of relief. The emotional system is especially responsive to changes in states—so an upward change is interpreted positively even if it is only from a very bad state to a not-so-bad state, just as a change is 
+9780465050659-text.indd   529780465050659-text.indd   52 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ two:  The Psychology of Everyday Actions 53interpreted negatively even if it is from an extremely positive state 
+to one only somewhat less positive.
+THE REFLECTIVE LEVEL
+The reflective level is the home of conscious cognition. As a conse-
+quence, this is where deep understanding develops, where reason-ing and conscious decision-making take place. The visceral and behavioral levels are subconscious and, as a result, they respond rapidly, but without much analysis. Reflection is cognitive, deep, and slow. It often occurs after the events have happened. It is a re-flection or looking back over them, evaluating the circumstances, actions, and outcomes, often assessing blame or responsibility. The highest levels of emotions come from the reflective level, for it is here that causes are assigned and where predictions of the future take place. Adding causal elements to experienced events leads to such emotional states as guilt and pride (when we assume our-
+selves to be the cause) and blame and praise (when others are thought to be the cause). Most of us have probably experienced the extreme highs and lows of anticipated future events, all imagined by a runaway reflective cognitive system but intense enough to create the physiological responses associated with extreme anger or pleasure. Emotion and cognition are tightly intertwined.
+DESIGN MUST TAKE PLACE AT ALL LEVELS: 
+VISCERAL, BEHAVIORAL, AND REFLECTIVE
+To the designer, reflection is perhaps the most important of the 
+levels of processing. Reflection is conscious, and the emotions produced at this level are the most protracted: those that assign agency and cause, such as guilt and blame or praise and pride. Re-flective responses are part of our memory of events. Memories last far longer than the immediate experience or the period of usage, which are the domains of the visceral and behavioral levels. It is reflection that drives us to recommend a product, to recommend that others use it—or perhaps to avoid it.
+Reflective memories are often more important than reality. If 
+we have a strongly positive visceral response but disappointing 
+9780465050659-text.indd   539780465050659-text.indd   53 8/19/13   5:22 PM8/19/13   5:22 PM
+
+54 The Design of Everyday Thingsusability problems at the behavioral level, when we reflect back 
+upon the product, the reflective level might very well weigh the positive response strongly enough to overlook the severe behav-ioral difficulties (hence the phrase, “Attractive things work bet-ter”). Similarly, too much frustration, especially toward the ending stage of use, and our reflections about the experience might over-look the positive visceral qualities. Advertisers hope that the strong reflective value associated with a well-known, highly prestigious brand might overwhelm our judgment, despite a frustrating expe-rience in using the product. Vacations are often remembered with fondness, despite the evidence from diaries of repeated discomfort and anguish.
+All three levels of processing work together. All play essential 
+roles in determining a person’s like or dislike of a product or ser-vice. One nasty experience with a service provider can spoil all future experiences. One superb experience can make up for past deficiencies. The behavioral level, which is the home of interaction, is also the home of all expectation-based emotions, of hope and joy, frustration and anger. Understanding arises at a combination of the behavioral and reflective levels. Enjoyment requires all three. Designing at all three levels is so important that I devote an entire book to the topic, Emotional Design.
+In psychology, there has been a long debate about which hap-
+pens first: emotion or cognition. Do we run and flee because some event happened that made us afraid? Or are we afraid because our conscious, reflective mind notices that we are running? The three-level analysis shows that both of these ideas can be correct. Sometimes the emotion comes first. An unexpected loud noise can cause automatic visceral and behavioral responses that make us flee. Then, the reflective system observes itself fleeing and deduces that it is afraid. The actions of running and fleeing occur first and set off the interpretation of fear.
+But sometimes cognition occurs first. Suppose the street where 
+we are walking leads to a dark and narrow section. Our reflective system might conjure numerous imagined threats that await us. At some point, the imagined depiction of potential harm is large 
+9780465050659-text.indd   549780465050659-text.indd   54 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ two:  The Psychology of Everyday Actions 55enough to trigger the behavioral system, causing us to turn, run, and 
+flee. Here is where the cognition sets off the fear and the action.
+Most products do not cause fear, running, or fleeing, but badly 
+designed devices can induce frustration and anger, a feeling of helplessness and despair, and possibly even hate. Well-designed devices can induce pride and enjoyment, a feeling of being in con-trol and pleasure—possibly even love and attachment. Amuse-ment parks are experts at balancing the conflicting responses of the emotional stages, providing rides and fun houses that trigger fear responses from the visceral and behavioral levels, while all the time providing reassurance at the reflective level that the park would never subject anyone to real danger.
+All three levels of processing work together to determine a per-
+son’s cognitive and emotional state. High-level reflective cognition can trigger lower-level emotions. Lower-level emotions can trigger higher-level reflective cognition.
+The Seven Stages of Action 
+and the Three Levels of Processing
+The stages of action can readily be associated with the three differ-ent levels of processing, as shown in Figure 2.4. At the lowest level are the visceral levels of calmness or anxiety when approaching a task or evaluating the state of the world. Then, in the middle level, are the behavioral ones driven by expectations on the execution side—for example, hope and fear—and emotions driven by the confirmation of those expectations on the evaluation side—for ex-ample, relief or despair. At the highest level are the reflective emo-tions, ones that assess the results in terms of the presumed causal agents and the consequences, both immediate and long-term. Here is where satisfaction and pride occur, or perhaps blame and anger.
+One important emotional state is the one that accompanies com-
+plete immersion into an activity, a state that the social scientist Mihaly Csikszentmihalyi has labeled “flow.” Csikszentmihalyi has long studied how people interact with their work and play, and how their lives reflect this intermix of activities. When in the flow state, people lose track of time and the outside environment. 
+9780465050659-text.indd   559780465050659-text.indd   55 8/19/13   5:22 PM8/19/13   5:22 PM
+
+56 The Design of Everyday ThingsThey are at one with the task 
+they are performing. The task, moreover, is at just the proper level of difficulty: difficult enough to provide a challenge and require continued atten-tion, but not so difficult that it invokes frustration and anxiety.
+Csikszentmihalyi’s work 
+shows how the behavioral level creates a powerful set of emotional responses. Here, the subconscious expectations es-tablished by the execution side of the action cycle set up emo-tional states dependent upon those expectations. When the results of our actions are eval-uated against expectations, the resulting emotions affect our feelings as we continue through 
+the many cycles of action. An easy task, far below our skill level, makes it so easy to meet expectations that there is no challenge. Very little or no processing effort is required, which leads to apathy or boredom. A difficult task, far above our skill, leads to so many failed expectations that it causes frustration, anxiety, and helplessness. The flow state oc-curs when the challenge of the activity just slightly exceeds our skill level, so full attention is continually required. Flow requires that the activity be neither too easy nor too difficult relative to our level of skill. The constant tension coupled with continual progress and success can be an engaging, immersive experience sometimes lasting for hours.
+People as Storytellers
+Now that we have explored the way that actions get done and the three different levels of processing that integrate cognition and emotion, we are ready to look at some of the implications.
+FIGURE 2.4.  L e v e l s  o f  P r o c e s s i n g  a n d  t h e  
+Stages of the Action Cycle. Visceral response is 
+at the lowest level: the control of simple muscles 
+and sensing the state of the world and body. The behavioral level is about expectations, so it is sen-sitive to the expectations of the action sequence and then the interpretations of the feedback. The reflective level is a part of the goal- and plan-set-ting activity as well as affected by the comparison of expectations with what has actually happened.
+9780465050659-text.indd   569780465050659-text.indd   56 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ two:  The Psychology of Everyday Actions 57People are innately disposed to look for causes of events, to form 
+explanations and stories. That is one reason storytelling is such 
+a persuasive medium. Stories resonate with our experiences and provide examples of new instances. From our experiences and the stories of others we tend to form generalizations about the way people behave and things work. We attribute causes to events, and as long as these cause-and-effect pairings make sense, we accept them and use them for understanding future events. Yet these causal attributions are often erroneous. Sometimes they implicate the wrong causes, and for some things that happen, there is no single cause; rather, a complex chain of events that all contribute to the result: if any one of the events would not have occurred, the result would be different. But even when there is no single causal act, that doesn’t stop people from assigning one. 
+Conceptual models are a form of story, resulting from our predis-
+position to find explanations. These models are essential in helping us understand our experiences, predict the outcome of our actions, and handle unexpected occurrences. We base our models on what-ever knowledge we have, real or imaginary, naive or sophisticated.
+Conceptual models are often constructed from fragmentary evi-
+dence, with only a poor understanding of what is happening, and with a kind of naive psychology that postulates causes, mecha-nisms, and relationships even where there are none. Some faulty models lead to the frustrations of everyday life, as in the case of my unsettable refrigerator, where my conceptual model of its opera-tion (see again Figure 1.10A) did not correspond to reality (Figure 1.10B). Far more serious are faulty models of such complex sys-tems as an industrial plant or passenger airplane. Misunderstand-ing there can lead to devastating accidents.
+Consider the thermostat that controls room heating and cooling 
+systems. How does it work? The average thermostat offers almost no evidence of its operation except in a highly roundabout man-ner. All we know is that if the room is too cold, we set a higher temperature into the thermostat. Eventually we feel warmer. Note that the same thing applies to the temperature control for almost any device whose temperature is to be regulated. Want to bake a 
+9780465050659-text.indd   579780465050659-text.indd   57 8/19/13   5:22 PM8/19/13   5:22 PM
+
+58 The Design of Everyday Thingscake? Set the oven thermostat and the oven goes to the desired 
+temperature.
+If you are in a cold room, in a hurry to get warm, will the room 
+heat more quickly if you turn the thermostat to its maximum set-ting? Or if you want the oven to reach its working temperature faster, should you turn the temperature dial all the way to maxi-mum, then turn it down once the desired temperature is reached? Or to cool a room most quickly, should you set the air conditioner thermostat to its lowest temperature setting?
+If you think that the room or oven will cool or heat faster if the 
+thermostat is turned all the way to the maximum setting, you are wrong—you hold an erroneous folk theory of the heating and cool-ing system. One commonly held folk theory of the working of a thermostat is that it is like a valve: the thermostat controls how much heat (or cold) comes out of the device. Hence, to heat or cool something most quickly, set the thermostat so that the device is on maximum. The theory is reasonable, and there exist devices that operate like this, but neither the heating or cooling equipment for a home nor the heating element of a traditional oven is one of them.
+In most homes, the thermostat is just an on-off switch. Moreover, 
+most heating and cooling devices are either fully on or fully off: all or nothing, with no in-between states. As a result, the thermo-stat turns the heater, oven, or air conditioner completely on, at full power, until the temperature setting on the thermostat is reached. Then it turns the unit completely off. Setting the thermostat at one extreme cannot affect how long it takes to reach the desired temperature. Worse, because this bypasses the automatic shutoff when the desired temperature is reached, setting it at the extremes invariably means that the temperature overshoots the target. If people were uncomfortably cold or hot before, they will become uncomfortable in the other direction, wasting considerable energy in the process.
+But how are you to know? What information helps you under-
+stand how the thermostat works? The design problem with the refrigerator is that there are no aids to understanding, no way of 
+9780465050659-text.indd   589780465050659-text.indd   58 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ two:  The Psychology of Everyday Actions 59forming the correct conceptual model. In fact, the information 
+provided misleads people into forming the wrong, quite inap-propriate model.
+The real point of these examples is not that some people have er-
+roneous beliefs; it is that everyone forms stories (conceptual mod-els) to explain what they have observed. In the absence of external information, people can let their imagination run free as long as the conceptual models they develop account for the facts as they perceive them. As a result, people use their thermostats inappro-priately, causing themselves unnecessary effort, and often resulting in large temperature swings, thus wasting energy, which is both a needless expense and bad for the environment. (Later in this chap-ter, page 69, I provide an example of a thermostat that does pro-vide a useful conceptual model.)
+Blaming the Wrong Things
+People try to find causes for events. They tend to assign a causal re-lation whenever two things occur in succession. If some unexpected event happens in my home just after I have taken some action, I am apt to conclude that it was caused by that action, even if there really was no relationship between the two. Similarly, if I do something ex-pecting a result and nothing happens, I am apt to interpret this lack of informative feedback as an indication that I didn’t do the action correctly: the most likely thing to do, therefore, is to repeat the action, only with more force. Push a door and it fails to open? Push again, harder. With electronic devices, if the feedback is delayed sufficiently, people often are led to conclude that the press wasn’t recorded, so they do the same action again, sometimes repeatedly, unaware that all of their presses were recorded. This can lead to unintended results. Repeated presses might intensify the response much more than was intended. Alternatively, a second request might cancel the previous one, so that an odd number of pushes produces the desired result, whereas an even number leads to no result.
+The tendency to repeat an action when the first attempt fails 
+can be disastrous. This has led to numerous deaths when people 
+9780465050659-text.indd   599780465050659-text.indd   59 8/19/13   5:22 PM8/19/13   5:22 PM
+
+60 The Design of Everyday Thingstried to escape a burning building by attempting to push open exit 
+doors that opened inward, doors that should have been pulled. As a result, in many countries, the law requires doors in public places to open outward, and moreover to be operated by so-called panic bars, so that they automatically open when people, in a panic to escape a fire, push their bodies against them. This is a great appli-cation of appropriate affordances: see the door in Figure 2.5.
+Modern systems try hard to provide feedback within 0.1 second 
+of any operation, to reassure the user that the request was received. This is especially important if the operation will take considerable time. The presence of a filling hourglass or rotating clock hands is a reassuring sign that work is in progress. When the delay can be predicted, some systems provide time estimates as well as progress bars to indicate how far along the task has gone. More systems should adopt these sensible displays to provide timely and mean-ingful feedback of results.
+Some studies show it is wise to underpredict—that is, to say an 
+operation will take longer than it actually will. When the system computes the amount of time, it can compute the range of possible 
+FIGURE 2.5.  Panic Bars on Doors. People fleeing a fire would die if they en-
+countered exit doors that opened inward, because they would keep trying to push 
+them outward, and when that failed, they would push harder. The proper design, now required by law in many places, is to change the design of doors so that they open when pushed. Here is one example: an excellent design strategy for dealing with real behavior by the use of the proper affordances coupled with a graceful signifier, the black bar, which indicates where to push. 
+(Photograph by author at the 
+Ford Design Center, Northwestern University.)
+9780465050659-text.indd   609780465050659-text.indd   60 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ two:  The Psychology of Everyday Actions 61times. In that case it ought to display the range, or if only a single 
+value is desirable, show the slowest, longest value. That way, the expectations are liable to be exceeded, leading to a happy result.
+When it is difficult to determine the cause of a difficulty, where 
+do people put the blame? Often people will use their own concep-tual models of the world to determine the perceived causal rela-tionship between the thing being blamed and the result. The word perceived is critical: the causal relationship does not have to exist; the person simply has to think it is there. Sometimes the result is to attribute cause to things that had nothing to do with the action.
+Suppose I try to use an everyday thing, but I can’t. Who is at 
+fault: me or the thing? We are apt to blame ourselves, especially if others are able to use it. Suppose the fault really lies in the device, so that lots of people have the same problems. Because everyone perceives the fault to be his or her own, nobody wants to admit to having trouble. This creates a conspiracy of silence, where the feelings of guilt and helplessness among people are kept hidden.
+Interestingly enough, the common tendency to blame ourselves 
+for failures with everyday objects goes against the normal attribu-tions we make about ourselves and others. Everyone sometimes acts in a way that seems strange, bizarre, or simply wrong and inappropriate. When we do this, we tend to attribute our behavior to the environment. When we see others do it, we tend to attribute it to their personalities.
+Here is a made-up example. Consider Tom, the office terror. To-
+day, Tom got to work late, yelled at his colleagues because the of-fice coffee machine was empty, then ran to his office and slammed the door shut. “Ah,” his colleagues and staff say to one another, “there he goes again.”
+Now consider Tom’s point of view. “I really had a hard day,” Tom 
+explains. “I woke up late because my alarm clock failed to go off: I didn’t even have time for my morning coffee. Then I couldn’t find a parking spot because I was late. And there wasn’t any coffee in the office machine; it was all out. None of this was my fault—I had a run of really bad events. Yes, I was a bit curt, but who wouldn’t be under the same circumstances?”
+9780465050659-text.indd   619780465050659-text.indd   61 8/19/13   5:22 PM8/19/13   5:22 PM
+
+62 The Design of Everyday ThingsTom’s colleagues don’t have access to his inner thoughts or to his 
+morning’s activities. All they see is that Tom yelled at them simply 
+because the office coffee machine was empty. This reminds them of another similar event. “He does that all the time,” they conclude, “always blowing up over the most minor things.” Who is correct? Tom or his colleagues? The events can be seen from two differ-ent points of view with two different interpretations: common re-sponses to the trials of life or the result of an explosive, irascible personality.
+It seems natural for people to blame their own misfortunes on 
+the environment. It seems equally natural to blame other people’s misfortunes on their personalities. Just the opposite attribution, by the way, is made when things go well. When things go right, peo-ple credit their own abilities and intelligence. The onlookers do the reverse. When they see things go well for someone else, they sometimes credit the environment, or luck.
+In all such cases, whether a person is inappropriately accepting 
+blame for the inability to work simple objects or attributing be-havior to environment or personality, a faulty conceptual model is at work.
+LEARNED HELPLESSNESS
+The phenomenon called learned helplessness might help explain the 
+self-blame. It refers to the situation in which people experience re-peated failure at a task. As a result, they decide that the task cannot be done, at least not by them: they are helpless. They stop trying. If this feeling covers a group of tasks, the result can be severe diffi-culties coping with life. In the extreme case, such learned helpless-ness leads to depression and to a belief that the individuals cannot cope with everyday life at all. Sometimes all it takes to get such a feeling of helplessness are a few experiences that accidentally turn out bad. The phenomenon has been most frequently studied as a precursor to the clinical problem of depression, but I have seen it happen after a few bad experiences with everyday objects.
+Do common technology and mathematics phobias result from 
+a kind of learned helplessness? Could a few instances of failure 
+9780465050659-text.indd   629780465050659-text.indd   62 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ two:  The Psychology of Everyday Actions 63in what appear to be straightforward situations generalize to ev-
+ery technological object, every mathematics problem? Perhaps. In fact, the design of everyday things (and the design of mathematics courses) seems almost guaranteed to cause this. We could call this phenomenon taught helplessness.
+When people have trouble using technology, especially when 
+they perceive (usually incorrectly) that nobody else is having the same problems, they tend to blame themselves. Worse, the more they have trouble, the more helpless they may feel, believing that they must be technically or mechanically inept. This is just the op-posite of the more normal situation where people blame their own difficulties on the environment. This false blame is especially ironic because the culprit here is usually the poor design of the technol-ogy, so blaming the environment (the technology) would be com-pletely appropriate.
+Consider the normal mathematics curriculum, which continues 
+relentlessly on its way, each new lesson assuming full knowledge and understanding of all that has passed before. Even though each point may be simple, once you fall behind it is hard to catch up. The result: mathematics phobia—not because the material is diffi-cult, but because it is taught so that difficulty in one stage hinders further progress. The problem is that once failure starts, it is soon generalized by self-blame to all of mathematics. Similar processes are at work with technology. The vicious cycle starts: if you fail at something, you think it is your fault. Therefore you think you can’t do that task. As a result, next time you have to do the task, you believe you can’t, so you don’t even try. The result is that you can’t, just as you thought.
+You’re trapped in a self-fulfilling prophecy.
+POSITIVE PSYCHOLOGY
+Just as we learn to give up after repeated failure, we can learn op-timistic, positive responses to life. For years, psychologists focused upon the gloomy story of how people failed, on the limits of hu-man abilities, and on psychopathologies—depression, mania, para-noia, and so on. But the twenty-first century sees a new approach: 
+9780465050659-text.indd   639780465050659-text.indd   63 8/19/13   5:22 PM8/19/13   5:22 PM
+
+64 The Design of Everyday Thingsto focus upon a positive psychology, a culture of positive thinking, 
+of feeling good about oneself. In fact, the normal emotional state of most people is positive. When something doesn’t work, it can be considered an interesting challenge, or perhaps just a positive learning experience.
+We need to remove the word failure from our vocabulary, replac-
+ing it instead with learning experience.  To fail is to learn: we learn 
+more from our failures than from our successes. With success, sure, we are pleased, but we often have no idea why we succeeded. With failure, it is often possible to figure out why, to ensure that it will never happen again.
+Scientists know this. Scientists do experiments to learn how the 
+world works. Sometimes their experiments work as expected, but often they don’t. Are these failures? No, they are learning expe-riences. Many of the most important scientific discoveries have come from these so-called failures.
+Failure can be such a powerful learning tool that many designers 
+take pride in their failures that happen while a product is still in development. One design firm, IDEO, has it as a creed: “Fail often, fail fast,” they say, for they know that each failure teaches them a lot about what to do right. Designers need to fail, as do research-ers. I have long held the belief—and encouraged it in my students 
+and employees—that failures are an essential part of exploration and creativity. If designers and researchers do not sometimes fail, it is a sign that they are not trying hard enough—they are not think-ing the great creative thoughts that will provide breakthroughs in how we do things. It is possible to avoid failure, to always be safe. But that is also the route to a dull, uninteresting life.
+The designs of our products and services must also follow this 
+philosophy. So, to the designers who are reading this, let me give some advice:
+• Do not blame people when they fail to use your products properly.
+•  Take people’s difficulties as signifiers of where the product can be 
+improved.
+9780465050659-text.indd   649780465050659-text.indd   64 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ two:  The Psychology of Everyday Actions 65•  Eliminate all error messages from electronic or computer systems. 
+Instead, provide help and guidance.
+•  Make it possible to correct problems directly from help and guidance 
+messages. Allow people to continue with their task: Don’t impede 
+progress—help make it smooth and continuous. Never make people start over.
+•  Assume that what people have done is partially correct, so if it is 
+inappropriate, provide the guidance that allows them to correct the problem and be on their way.
+• Think positively, for yourself and for the people you interact with.
+Falsely Blaming Yourself
+I have studied people making errors—sometimes serious ones—
+with mechanical devices, light switches and fuses, computer op-erating systems and word processors, even airplanes and nuclear power plants. Invariably people feel guilty and either try to hide the error or blame themselves for “stupidity” or “clumsiness.” I often have difficulty getting permission to watch: nobody likes to be observed performing badly. I point out that the design is faulty and that others make the same errors, yet if the task appears sim-ple or trivial, people still blame themselves. It is almost as if they take perverse pride in thinking of themselves as mechanically incompetent.
+I once was asked by a large computer company to evaluate a 
+brand-new product. I spent a day learning to use it and trying it out on various problems. In using the keyboard to enter data, it was necessary to differentiate between the Return key and the En-ter key. If the wrong key was pressed, the last few minutes’ work was irrevocably lost.
+I pointed out this problem to the designer, explaining that I, 
+myself, had made the error frequently and that my analyses indi-cated that this was very likely to be a frequent error among users. The designer’s first response was: “Why did you make that error? Didn’t you read the manual?” He proceeded to explain the differ-ent functions of the two keys.
+9780465050659-text.indd   659780465050659-text.indd   65 8/19/13   5:22 PM8/19/13   5:22 PM
+
+66 The Design of Everyday Things“Yes, yes,” I explained, “I understand the two keys, I simply confuse 
+them. They have similar functions, are located in similar locations on 
+the keyboard, and as a skilled typist, I often hit Return automatically, without thought. Certainly others have had similar problems.”
+“Nope,” said the designer. He claimed that I was the only per-
+son who had ever complained, and the company’s employees had been using the system for many months. I was skeptical, so we went together to some of the employees and asked them whether they had ever hit the Return key when they should have hit Enter. And did they ever lose their work as a result?
+“Oh, yes,” they said, “we do that a lot.”Well, how come nobody ever said anything about it? After all, 
+they were encouraged to report all problems with the system. The reason was simple: when the system stopped working or did some-thing strange, they dutifully reported it as a problem. But when they made the Return versus Enter error, they blamed themselves. After all, they had been told what to do. They had simply erred.
+The idea that a person is at fault when something goes wrong is 
+deeply entrenched in society. That’s why we blame others and even ourselves. Unfortunately, the idea that a person is at fault is imbed-ded in the legal system. When major accidents occur, official courts of inquiry are set up to assess the blame. More and more often the blame is attributed to “human error.” The person involved can be fined, punished, or fired. Maybe training procedures are revised. The law rests comfortably. But in my experience, human error usually is a result of poor design: it should be called system error. Humans err continually; it is an intrinsic part of our nature. System design should take this into account. Pinning the blame on the person may be a comfortable way to proceed, but why was the system ever de-signed so that a single act by a single person could cause calamity? Worse, blaming the person without fixing the root, underlying cause does not fix the problem: the same error is likely to be repeated by someone else. I return to the topic of human error in Chapter 5.
+Of course, people do make errors. Complex devices will always 
+require some instruction, and someone using them without in-struction should expect to make errors and to be confused. But 
+9780465050659-text.indd   669780465050659-text.indd   66 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ two:  The Psychology of Everyday Actions 67designers should take special pains to make errors as cost-free as 
+possible. Here is my credo about errors:
+Eliminate the term human error. Instead, talk about communica-
+tion and interaction: what we call an error is usually bad commu-nication or interaction. When people collaborate with one anoth-er, the word error is never used to characterize another person’s utterance. That’s because each person is trying to understand and respond to the other, and when something is not understood or seems inappropriate, it is questioned, clarified, and the collab-oration continues. Why can’t the interaction between a person and a machine be thought of as collaboration?
+Machines are not people. They can’t communicate and under-
+stand the same way we do. This means that their designers have a special obligation to ensure that the behavior of machines is un-derstandable to the people who interact with them. True collabo-ration requires each party to make some effort to accommodate and understand the other. When we collaborate with machines, it is people who must do all the accommodation. Why shouldn’t the machine be more friendly? The machine should accept normal hu-man behavior, but just as people often subconsciously assess the accuracy of things being said, machines should judge the quality of information given it, in this case to help its operators avoid griev-ous errors because of simple slips (discussed in Chapter 5). Today, we insist that people perform abnormally, to adapt themselves to the peculiar demands of machines, which includes always giving precise, accurate information. Humans are particularly bad at this, yet when they fail to meet the arbitrary, inhuman requirements of machines, we call it human error. No, it is design error.
+Designers should strive to minimize the chance of inappro-
+priate actions in the first place by using affordances, signifiers, good mapping, and constraints to guide the actions. If a person performs an inappropriate action, the design should maximize the chance that this can be discovered and then rectified. This requires good, intelligible feedback coupled with a simple, clear conceptual model. When people understand what has happened, what state the system is in, and what the most appropriate set of actions is, they can perform their activities more effectively.
+9780465050659-text.indd   679780465050659-text.indd   67 8/19/13   5:22 PM8/19/13   5:22 PM
+
+68 The Design of Everyday ThingsPeople are not machines. Machines don’t have to deal with 
+continual interruptions. People are subjected to continual inter-
+ruptions. As a result, we are often bouncing back and forth be-tween tasks, having to recover our place, what we were doing, and what we were thinking when we return to a previous task. No wonder we sometimes forget our place when we return to the original task, either skipping or repeating a step, or imprecisely retaining the information we were about to enter.
+Our strengths are in our flexibility and creativity, in coming up 
+with solutions to novel problems. We are creative and imaginative, not mechanical and precise. Machines require precision and accu-racy; people don’t. And we are particularly bad at providing precise and accurate inputs. So why are we always required to do so? Why do we put the requirements of machines above those of people?
+When people interact with machines, things will not always 
+go smoothly. This is to be expected. So designers should antici-pate this. It is easy to design devices that work well when every-thing goes as planned. The hard and necessary part of design is to make things work well even when things do not go as planned.
+HOW TECHNOLOGY CAN ACCOMMODATE HUMAN BEHAVIOR
+In the past, cost prevented many manufacturers from providing 
+useful feedback that would assist people in forming accurate conceptual models. The cost of color displays large and flexible enough to provide the required information was prohibitive for small, inexpensive devices. But as the cost of sensors and displays has dropped, it is now possible to do a lot more.
+Thanks to display screens, telephones are much easier to use than 
+ever before, so my extensive criticisms of phones found in the earlier edition of this book have been removed. I look forward to great im-provements in all our devices now that the importance of these de-sign principles are becoming recognized and the enhanced quality and lower costs of displays make it possible to implement the ideas.
+PROVIDING A CONCEPTUAL MODEL FOR A HOME THERMOSTAT
+My thermostat, for example (designed by Nest Labs), has a colorful display that is normally off, turning on only when it senses that I 
+9780465050659-text.indd   689780465050659-text.indd   68 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ two:  The Psychology of Everyday Actions 69am nearby. Then it provides me with the current temperature of 
+the room, the temperature to which it is set, and whether it is heat-ing or cooling the room (the background color changes from black when it is neither heating nor cooling, to orange while heating, or to blue while cooling). It learns my daily patterns, so it changes temperature automatically, lowering it at bedtime, raising it again in the morning, and going into “away” mode when it detects that nobody is in the house. All the time, it explains what it is doing. Thus, when it has to change the room temperature substantially (either because someone has entered a manual change or because it has decided that it is now time to switch), it gives a prediction: “Now 75°, will be 72° in 20 minutes.” In addition, Nest can be con-nected wirelessly to smart devices that allow for remote operation of the thermostat and also for larger screens to provide a detailed analysis of its performance, aiding the home occupant’s develop-ment of a conceptual model both of Nest and also of the home’s en-ergy consumption. Is Nest perfect? No, but it marks improvement in the collaborative interaction of people and everyday things.
+FIGURE 2.6.  A Thermostat with an Explicit Concep-
+tual Model.  This thermostat, manufactured by Nest Labs, 
+helps people form a good conceptual model of its opera-
+tion. Photo A shows the thermostat. The background, blue, indicates that it is now cooling the home. The current tem-perature is 75°F (24°C) and the target temperature is 72°F (22°C), which it expects to reach in 20 minutes. Photo B shows its use of a smart phone to deliver a summary of its settings and the home’s energy use. Both A and B combine to help the home dweller develop conceptual models of the thermostat and the home’s energy consumption. 
+(Pho-
+tographs courtesy of Nest Labs, Inc.)
+A.
+B.
+9780465050659-text.indd   699780465050659-text.indd   69 8/19/13   5:22 PM8/19/13   5:22 PM
+
+70 The Design of Everyday ThingsENTERING DATES, TIMES, AND TELEPHONE NUMBERS
+Many machines are programmed to be very fussy about the form 
+of input they require, where the fussiness is not a requirement of the machine but due to the lack of consideration for people in the design of the software. In other words: inappropriate program-ming. Consider these examples.
+Many of us spend hours filling out forms on computers—forms 
+that require names, dates, addresses, telephone numbers, mone-tary sums, and other information in a fixed, rigid format. Worse, often we are not even told the correct format until we get it wrong. Why not figure out the variety of ways a person might fill out a form and accommodate all of them? Some companies have done excellent jobs at this, so let us celebrate their actions.
+Consider Microsoft’s calendar program. Here, it is possible to 
+specify dates any way you like: “November 23, 2015,” “23 Nov. 15,” or “11.23.15.” It even accepts phrases such as “a week from Thursday,” “tomorrow,” “a week from tomorrow,” or “yesterday.” Same with time. You can enter the time any way you want: “3:45 PM,” “15.35,” “an hour,” “two and one-half hours.” Same with telephone numbers: Want to start with a + sign (to indicate the code for international dialing)? No problem. Like to separate the num-ber fields with spaces, dashes, parentheses, slashes, periods? No problem. As long as the program can decipher the date, time, or telephone number into a legal format, it is accepted. I hope the team that worked on this got bonuses and promotions.
+Although I single out Microsoft for being the pioneer in accept-
+ing a wide variety of formats, it is now becoming standard prac-tice. By the time you read this, I would hope that every program would permit any intelligible format for names, dates, phone num-bers, street addresses, and so on, transforming whatever is entered into whatever form the internal programming needs. But I predict that even in the twenty-second century, there will still be forms that require precise accurate (but arbitrary) formats for no reason except the laziness of the programming team. Perhaps in the years that pass between this book’s publication and when you are read-
+9780465050659-text.indd   709780465050659-text.indd   70 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ two:  The Psychology of Everyday Actions 71ing this, great improvements will have been made. If we are all 
+lucky, this section will be badly out of date. I hope so.
+The Seven Stages of Action: 
+Seven Fundamental Design Principles
+The seven-stage model of the action cycle can be a valuable de-
+sign tool, for it provides a basic checklist of questions to ask. In general, each stage of action requires its own special design strate-gies and, in turn, provides its own opportunity for disaster. Figure 2.7 summarizes the questions:
+1. What do I want to accomplish?
+2.  What are the alternative action sequences?3.  What action can I do now?4.  How do I do it?5.  What happened?6.  What does it mean?7.  Is this okay? Have I accomplished my goal?
+Anyone using a product should always be able to determine the 
+answers to all seven questions. This puts the burden on the designer 
+FIGURE 2.7.  The Seven 
+S ta g es  o f  A cti o n  as  D es i gn  
+Aids.  Each of the seven stages 
+indicates a place where the person using the system has a question. The seven questions pose seven design themes. How should the design con-vey the information required to answer the user’s question? Through appropriate con-straint and mappings, signi-fiers and conceptual models, feedback and visibility. The information that helps answer questions of execution (doing) is feedforward.  The information 
+that aids in understanding what has happened is feedback.
+9780465050659-text.indd   719780465050659-text.indd   71 8/19/13   5:22 PM8/19/13   5:22 PM
+
+72 The Design of Everyday Thingsto ensure that at each stage, the product provides the information 
+required to answer the question. 
+The information that helps answer questions of execution (do-
+ing) is feedforward. The information that aids in understanding what has happened is feedback. Everyone knows what feedback is. It helps you know what happened. But how do you know what you can do? That’s the role of feedforward, a term borrowed from control theory.
+Feedforward is accomplished through appropriate use of signi-
+fiers, constraints, and mappings. The conceptual model plays an important role. Feedback is accomplished through explicit infor-mation about the impact of the action. Once again, the conceptual model plays an important role.
+Both feedback and feedforward need to be presented in a form that 
+is readily interpreted by the people using the system. The presenta-tion has to match how people view the goal they are trying to achieve and their expectations. Information must match human needs.
+The insights from the seven stages of action lead us to seven fun-
+damental principles of design:
+1.  Discoverability. It is possible to determine what actions are possible 
+and the current state of the device.
+2.  Feedback. There is full and continuous information about the results 
+of actions and the current state of the product or service. After an action has been executed, it is easy to determine the new state.
+3.  Conceptual model. The design projects all the information needed to create a good conceptual model of the system, leading to under-standing and a feeling of control. The conceptual model enhances both discoverability and evaluation of results.
+4.  Affordances. The proper affordances exist to make the desired ac-
+tions possible.
+5.  Signifiers.  Effective use of signifiers ensures discoverability and that 
+the feedback is well communicated and intelligible.
+6.  Mappings. The relationship between controls and their actions fol-lows the principles of good mapping, enhanced as much as possible through spatial layout and temporal contiguity.
+9780465050659-text.indd   729780465050659-text.indd   72 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ two:  The Psychology of Everyday Actions 737.  Constraints. Providing physical, logical, semantic, and cultural con-
+straints guides actions and eases interpretation.
+The next time you can’t immediately figure out the shower con-
+trol in a hotel room or have trouble using an unfamiliar television 
+set or kitchen appliance, remember that the problem is in the de-sign. Ask yourself where the problem lies. At which of the seven stages of action does it fail? Which design principles are deficient?
+But it is easy to find fault: the key is to be able to do things 
+better. Ask yourself how the difficulty came about. Realize that many different groups of people might have been involved, each of which might have had intelligent, sensible reasons for their ac-tions. For example, a troublesome bathroom shower was designed by people who were unable to know how it would be installed, then the shower controls might have been selected by a building contractor to fit the home plans provided by yet another person. Finally, a plumber, who may not have had contact with any of the other people, did the installation. Where did the problems arise? It could have been at any one (or several) of these stages. The result may appear to be poor design, but it may actually arise from poor communication.
+One of my self-imposed rules is, “Don’t criticize unless you can 
+do better.” Try to understand how the faulty design might have occurred: try to determine how it could have been done otherwise. Thinking about the causes and possible fixes to bad design should make you better appreciate good design. So, the next time you come across a well-designed object, one that you can use smoothly and effortlessly on the first try, stop and examine it. Consider how well it masters the seven stages of action and the principles of de-sign. Recognize that most of our interactions with products are ac-tually interactions with a complex system: good design requires consideration of the entire system to ensure that the requirements, intentions, and desires at each stage are faithfully understood and respected at all the other stages.
+9780465050659-text.indd   739780465050659-text.indd   73 8/19/13   5:22 PM8/19/13   5:22 PM
+

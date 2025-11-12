@@ -1,0 +1,495 @@
+258 DESIGN 
+IN THE 
+WORLD OF 
+BUSINESS
+The realities of the world impose severe constraints 
+upon the design of products. Up to now I have de-scribed the ideal case, assuming that human-centered design principles could be followed in a vacuum; that 
+is, without attention to the real world of competition, costs, and schedules. Conflicting requirements will come from different sources, all of which are legitimate, all of which need to be resolved. Compromises must be made by all involved.
+Now it is time to examine the concerns outside of human-
+centered design that affect the development of products. I start with the impact of competitive forces that drive the introduction of extra features, often to excess: the cause of the disease dubbed “featuritis,” whose major symptom is “creeping featurism.” From there, I examine the drivers of change, starting with technological drivers. When new technologies emerge, there is a temptation to develop new products immediately. But the time for radically new products to become successful is measured in years, decades, or in some instances centuries. This causes me to examine the two forms of product innovation relevant to design: incremental (less glamorous, but most common) and radical (most glamorous, but rarely successful). 
+CHAPTER SEVEN
+9780465050659-text.indd   2589780465050659-text.indd   258 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ seven:  Design in the World of Business 259I conclude with reflections about the history and future prospects 
+of this book. The first edition of this book has had a long and fruit-
+ful life. Twenty-five years is an amazingly long time for a book cen-tered around technology to have remained relevant. If this revised and expanded edition lasts an equally long time, that means fifty years of The Design of Everyday Things . In these next twenty-five 
+years, what new developments will take place? What will be the role of technology in our lives, for the future of books, and what are the moral obligations of the design profession? And finally, for how long will the principles in this book remain relevant? It should be no surprise that I believe they will always be just as relevant as they were twenty-five years ago, just as relevant as they are today. Why? The reason is simple. The design of technology to fit human needs and capabilities is determined by the psychology of people. Yes, technologies may change, but people stay the same.
+Competitive Forces
+Today, manufacturers around the world compete with one another. The competitive pressures are severe. After all, there are only a few basic ways by which a manufacturer can compete: three of the most important being price, features, and quality—unfortunately often in that order of importance. Speed is important, lest some other company get ahead in the rush for market presence. These pressures make it difficult to follow the full, iterative process of continual product improvement. Even relatively stable home prod-ucts, such as automobiles, kitchen appliances, television sets, and computers, face the multiple forces of a competitive market that encourage the introduction of changes without sufficient testing and refinement.
+Here is a simple, real example. I am working with a new startup 
+company, developing an innovative line of cooking equipment. The founders had some unique ideas, pushing the technology of cooking far ahead of anything available for homes. We did numer-ous field tests, built numerous prototypes, and engaged a world-class industrial designer. We modified the original product concept several times, based on early feedback from potential users and 
+9780465050659-text.indd   2599780465050659-text.indd   259 8/19/13   5:22 PM8/19/13   5:22 PM
+
+260 The Design of Everyday Thingsadvice from industry experts. But just as we were about to com-
+mission the first production of a few hand-tooled working proto-types that could be shown to potential investors and customers (an expensive proposition for the small self-funded company), other companies started displaying similar concepts in the trade shows. What? Did they steal the ideas? No, it’s what is called the Zeit-
+geist, a German word meaning “spirit of the time.” In other words, the time was ripe, the ideas were “in the air.” The competition emerged even before we had delivered our first product. What is a small, startup company to do? It doesn’t have money to compete with the large companies. It has to modify its ideas to keep ahead of the competition and come up with a demonstration that excites potential customers and wows potential investors and, more im-portantly, potential distributors of the product. It is the distributors who are the real customers, not the people who eventually buy the product in stores and use it in their homes. The example illustrates the real business pressures on companies: the need for speed, the concern about costs, the competition that may force the company to change its offerings, and the need to satisfy several classes of customers—investors, distributors, and, of course, the people who will actually use the product. Where should the company focus its limited resources? More user studies? Faster development? New, unique features?
+The same pressures that the startup faced also impact established 
+companies. But they have other pressures as well. Most products have a development cycle of one to two years. In order to bring out a new model every year, the design process for the new model has to have started even before the previous model has been released to customers. Moreover, mechanisms for collecting and feeding back the experiences of customers seldom exist. In an earlier era, there was close coupling between designers and users. Today, they are separated by barriers. Some companies prohibit designers from working with customers, a bizarre and senseless restriction. Why would they do this? In part to prevent leaks of the new develop-ments to the competition, but also in part because customers may 
+9780465050659-text.indd   2609780465050659-text.indd   260 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ seven:  Design in the World of Business 261stop purchasing the current offerings if they are led to believe that 
+a new, more advanced item is soon to come. But even where there are no such restrictions, the complexity of large organizations cou-pled with the relentless pressure to finish the product makes this interaction difficult. Remember Norman’s Law of Chapter 6: The day a product development process starts, it is behind schedule and above budget.
+FEATURITIS: A DEADLY TEMPTATION
+In every successful product there lurks the carrier of an insidious disease called “featuritis,” with its main symptom being “creep-ing featurism.” The disease seems to have been first identified and named in 1976, but its origins probably go back to the earliest tech-nologies, buried far back in the eons prior to the dawn of history. It seems unavoidable, with no known prevention. Let me explain.
+Suppose we follow all the principles in this book for a wonder-
+ful, human-centered product. It obeys all design principles. It over-comes people’s problems and fulfills some important needs. It is attractive and easy to use and understand. As a result, suppose the product is successful: many people buy it and tell their friends to buy it. What could be wrong with this?
+The problem is that after the product has been available for a 
+while, a number of factors inevitably appear, pushing the company toward the addition of new features—toward creeping featurism. These factors include:
+•  Existing customers like the product, but express a wish for more fea-
+tures, more functions, more capability.
+•  A competing company adds new features to its products, producing 
+competitive pressures to match that offering, but to do even more in order to get ahead of the competition.
+•  Customers are satisfied, but sales are declining because the market 
+is saturated: everyone who wants the product already has it. Time to add wonderful enhancements that will cause people to want the new model, to upgrade.
+9780465050659-text.indd   2619780465050659-text.indd   261 8/19/13   5:22 PM8/19/13   5:22 PM
+
+262 The Design of Everyday ThingsFeaturitis is highly infectious. New products are invariably more 
+complex, more powerful, and different in size than the first release 
+of a product. You can see that tension playing out in music players, mobile phones, and computers, especially on smart phones, tab-lets, and pads. Portable devices get smaller and smaller with each release, despite the addition of more and more features (making them ever more difficult to operate). Some products, such as au-tomobiles, home refrigerators, television sets, and kitchen stoves, also increase in complexity with each release, getting larger and more powerful.
+But whether the products get larger or smaller, each new edition 
+invariably has more features than the previous one. Featuritis is an insidious disease, difficult to eradicate, impossible to vaccinate against. It is easy for marketing pressures to insist upon the addition of new features, but there is no call—or for that matter, budget—to get rid of old, unneeded ones.
+How do you know when you have encountered featuritis? By 
+its major symptom: creeping featurism. Want an example? Look at Figure 7.1, which illustrates the changes that have overcome the simple Lego motorcycle since my first encounter with it for the first edition of this book. The original motorcycle (Figure 4.1 and Figure 7.1A) had only fifteen components and could be put together with-out any instructions: it had sufficient constraints that every piece had a unique location and orientation. But now, as Figure 7.1B 
+shows, the same motorcycle has become bloated, with twenty -nine 
+pieces. I needed instructions.
+Creeping featurism is the tendency to add to the number of fea-
+tures of a product, often extending the number beyond all reason. There is no way that a product can remain usable and understand-able by the time it has all of those special-purpose features that have been added in over time.
+In her book Different, Harvard professor Youngme Moon ar-
+gues that it is this attempt to match the competition that causes all products to be the same. When companies try to increase sales by matching every feature of their competitors, they end up hurting themselves. After all, when products from two companies match 
+9780465050659-text.indd   2629780465050659-text.indd   262 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ seven:  Design in the World of Business 263feature by feature, there is no longer any reason for a customer to 
+prefer one over another. This is competition-driven design. Unfor-tunately, the mind-set of matching the competitor’s list of features pervades many organizations. Even if the first versions of a prod-uct are well done, human-centered, and focused upon real needs, it is the rare organization that is content to let a good product stay untouched.
+Most companies compare features with their competition to de-
+termine where they are weak, so they can strengthen those areas. Wrong, argues Moon. A better strategy is to concentrate on areas where they are stronger and to strengthen them even more. Then focus all marketing and advertisements to point out the strong points. This causes the product to stand out from the mindless herd. As for the weaknesses, ignore the irrelevant ones, says Moon. The lesson is simple: don’t follow blindly; focus on strengths, not weaknesses. If the product has real strengths, it can afford to just be “good enough” in the other areas.
+Good design requires stepping back from competitive pressures 
+and ensuring that the entire product be consistent, coherent, and 
+FIGURE 7.1.  Featuritis Strikes Lego. Figure A shows the original Lego Motorcycle 
+available in 1988 when I used it in the first edition of this book (on the left), next to the 
+2013 version (on the right). The old version had only fifteen pieces. No manual was needed to put it together. For the new version, the box proudly proclaims “29 pieces.” I could put the original version together without instructions. Figure B shows how far I got with the new version before I gave up and had to consult the instruction sheet. Why did Lego believe it had to change the motorcycle? Perhaps because featuritis struck real police motorcycles, causing them to increase in size and complexity and Lego felt that its toy needed to match the world. 
+(Photographs by the author.)
+A. B.
+9780465050659-text.indd   2639780465050659-text.indd   263 8/19/13   5:22 PM8/19/13   5:22 PM
+
+264 The Design of Everyday Thingsunderstandable. This stance requires the leadership of the com-
+pany to withstand the marketing forces that keep begging to add this feature or that, each thought to be essential for some market segment. The best products come from ignoring these competing voices and instead focusing on the true needs of the people who use the product.
+Jeff Bezos, the founder and CEO of Amazon.com, calls his ap-
+proach “customer obsessed.” Everything is focused upon the re-quirements of Amazon’s customers. The competition is ignored, the traditional marketing requirements are ignored. The focus is on simple, customer-driven questions: what do the customers want; how can their needs best be satisfied; what can be done better to enhance customer service and customer value? Focus on the cus-tomer, Bezos argues, and the rest takes care of itself. Many compa-nies claim to aspire to this philosophy, but few are able to follow it. Usually it is only possible where the head of the company, the CEO, is also the founder. Once the company passes control to oth-ers, especially those who follow the traditional MBA dictum of putting profit above customer concerns, the story goes downhill. Profits may indeed increase in the short term, but eventually the product quality deteriorates to the point where customers desert. Quality only comes about by continual focus on, and attention to, the people who matter: customers.
+New Technologies Force Change  
+Today, we have new requirements. We now need to type on small, portable devices that don’t have room for a full keyboard. Touch- and gesture-sensitive screens allow a new form of typing. We can bypass typing altogether through handwriting recognition and speech understanding.
+Consider the four products shown in Figure 7.2. Their appear-
+ance and methods of operations changed radically in their century of existence. Early telephones, such as the one in Figure 7.2A, did not have keyboards: a human operator intervened to make the con-nections. Even when operators were first replaced by automatic switching systems, the “keyboard” was a rotary dial with ten holes, 
+9780465050659-text.indd   2649780465050659-text.indd   264 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ seven:  Design in the World of Business 265one for each digit. When the dial was replaced with pushbutton 
+keys, it suffered a slight case of featuritis: the ten positions of the dial were replaced with twelve keys: the ten digits plus * and #.
+But much more interesting is the merger of devices. The human 
+computer gave rise to laptops, small portable computers. The tele-phone moved to small, portable cellular phones (called mobiles in much of the world). Smart phones had large, touch-sensitive screens, operated by gesture. Soon computers merged into tab-lets, as did cell phones. Cameras merged with cell phones. Today, talking, video conferences, writing, photography (both still and video), and collaborative interaction of all sorts are increasingly 
+FIGURE 7.2.  100 Years of Telephones and Keyboards. Figures A and B show the 
+change in the telephone from the Western Electric crank telephone of the 1910s, where 
+rotating the crank on the right generated a signal alerting the operator, to the phone of the 2010s. They seem to have nothing in common. Figures C and D contrast a keyboard of the 1910s with one from the 2010s. The keyboards are still laid out in the same way, but the first requires physical depression of each key; the second, a quick tracing of a finger over the relevant letters (the image shows the word many  being entered). Cred-
+its: A, B, and C: photographs by the author; objects in A and C courtesy of the Museum of American Heritage, Palo Alto, California. D shows the “Swype” keyboard from Nuance. 
+Image being used courtesy of Nuance Communications, Inc.
+A. B.
+D. C.
+9780465050659-text.indd   2659780465050659-text.indd   265 8/19/13   5:22 PM8/19/13   5:22 PM
+
+266 The Design of Everyday Thingsbeing done by one single device, available with a large variety of 
+screen sizes, computational power, and portability. It doesn’t make sense to call them computers, phones, or cameras: we need a new name. Let’s call them “smart screens.” In the twenty-second cen-tury, will we still have phones? I predict that although we will still talk with one another over a distance, we will not have any device called a telephone.
+As the pressures for larger screens forced the demise of physi-
+cal keyboards (despite the attempt to make tiny keyboards, oper-ated with single fingers or thumbs), the keyboards were displayed on the screen whenever needed, each letter tapped one at a time. This is slow, even when the system tries to predict the word being typed so that keying can stop as soon as the correct word shows up. Several systems were soon developed that allowed the finger or stylus to trace a path among the letters of the word: word-gesture systems. The gestures were sufficiently different from one another that it wasn’t even necessary to touch all the letters—it only mat-tered that the pattern generated by the approximation to the cor-rect path was close enough to the desired one. This turns out to be a fast and easy way to type (Figure 7.2D).
+With gesture-based systems, a major rethinking is possible. Why 
+keep the letters in the same QWERTY arrangement? The pattern generation would be even faster if letters were rearranged to max-imize speed when using a single finger or stylus to trace out the letters. Good idea, but when one of the pioneers in developing this technique, Shumin Zhai, then at IBM, tried it, he ran into the legacy problem. People knew QWERTY and balked at having to learn a different organization. Today, the word-gesture method of typing is widely used, but with QWERTY keyboards (as in Figure 7.2D).
+Technology changes the way we do things, but fundamental 
+needs remain unchanged. The need for getting thoughts written down, for telling stories, doing critical reviews, or writing fiction and nonfiction will remain. Some will be written using traditional keyboards, even on new technological devices, because the key-board still remains the fastest way to enter words into a system, 
+9780465050659-text.indd   2669780465050659-text.indd   266 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ seven:  Design in the World of Business 267whether it be paper or electronic, physical or virtual. Some people 
+will prefer to speak their ideas, dictating them. But spoken words are still likely to be turned into printed words (even if the print is simply on a display device), because reading is far faster and superior to listening. Reading can be done quickly: it is possible to read around three hundred words per minute and to skim, jump-ing ahead and back, effectively acquiring information at rates in the thousands of words per minute. Listening is slow and serial, usually at around sixty words per minute, and although this rate can be doubled or tripled with speech compression technologies and training, it is still slower than reading and not easy to skim. But the new media and new technologies will supplement the old, so that writing will no longer dominate as much as it did in the past, when it was the only medium widely available. Now that anyone can type and dictate, take photographs and videos, draw animated scenes, and creatively produce experiences that in the twentieth century required huge amounts of technology and large crews of specialized workers, the types of devices that allow us to do these tasks and the ways they are controlled will proliferate.
+The role of writing in civilization has changed over its five thou-
+sand years of existence. Today, writing has become increasingly common, although increasingly as short, informal messages. We now communicate using a wide variety of media: voice, video, handwriting, and typing, sometimes with all ten fingers, some-times just with the thumbs, and sometimes by gestures. Over time, the ways by which we interact and communicate change with tech-nology. But because the fundamental psychology of human beings will remain unchanged, the design rules in this book will still apply.
+Of course, it isn’t just communication and writing that has 
+changed. Technological change has impacted every sphere of our lives, from the way education is conducted, to medicine, foods, clothing, and transportation. We now can manufacture things at home, using 3-D printers. We can play games with partners around the world. Cars are capable of driving themselves, and their en-gines have changed from internal combustion to an assortment of 
+9780465050659-text.indd   2679780465050659-text.indd   267 8/19/13   5:22 PM8/19/13   5:22 PM
+
+268 The Design of Everyday Thingspure electric and hybrids. Name an industry or an activity and if 
+it hasn’t already been transformed by new technologies, it will be.
+Technology is a powerful driver for change. Sometimes for the 
+better, sometimes for the worse. Sometimes to fulfill important needs, and sometimes simply because the technology makes the change possible.
+How Long Does It Take 
+to Introduce a New Product?
+How long does it take for an idea to become a product? And after that, how long before the product becomes a long-lasting success? Inventors and founders of startup companies like to think the in-terval from idea to success is a single process, with the total mea-sured in months. In fact, it is multiple processes, where the total time is measured in decades, sometimes centuries.
+Technology changes rapidly, but people and culture change 
+slowly. Change is, ther efore, simultaneously rapid and slow. It can 
+take months to go from invention to product, but then decades—sometimes many decades—for the product to get accepted. Older products linger on long after they should have become obsolete, long after they should have disappeared. Much of daily life is dic-tated by conventions that are centuries old, that no longer make any sense, and whose origins have been forgotten by all except the historian.
+Even our most modern technologies follow this time cycle: fast 
+to be invented, slow to be accepted, even slower to fade away and die. In the early 2000s, the commercial introduction of gestural con-trol for cell phones, tablets, and computers radically transformed the way we interacted with our devices. Whereas all previous elec-tronic devices had numerous knobs and buttons on the outside, physical keyboards, and ways of calling up numerous menus of commands, scrolling through them, and selecting the desired command, the new devices eliminated almost all physical controls and menus.
+Was the development of tablets controlled by gestures rev-
+olutionary? To most people, yes, but not to technologists. 
+9780465050659-text.indd   2689780465050659-text.indd   268 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ seven:  Design in the World of Business 269Touch-sensitive displays that could detect the positions of si-
+multaneous finger presses (even if by multiple people) had been 
+in the research laboratories for almost thirty years (these are called 
+multi touch displays). The first devices were developed by the University of Toronto in the early 1980s. Mitsubishi developed a product that it sold to design schools and research laboratories, in which many of today’s gestures and techniques were being ex-plored. Why did it take so long for these multitouch devices to be-come successful products? Because it took decades to transform the research technology into components that were inexpensive and reliable enough for everyday products. Numerous small companies tried to manufacture screens, but the first devices that could handle multiple touches were either very expensive or unreliable.
+There is another problem: the general conservatism of large com-
+panies. Most radical ideas fail: large companies are not tolerant of failure. Small companies can jump in with new, exciting ideas because if they fail, well, the cost is relatively low. In the world of high technology, many people get new ideas, gather together a few friends and early risk-seeking employees, and start a new com-pany to exploit their visions. Most of these companies fail. Only a few will be successful, either by growing into a larger company or by being purchased by a large company.
+You may be surprised by the large percentage of failures, but 
+that is only because they are not publicized: we only hear about the tiny few that become successful. Most startup companies fail, but failure in the high-tech world of California is not considered bad. In fact, it is considered a badge of honor, for it means that the company saw a future potential, took the risk, and tried. Even though the company failed, the employees learned lessons that make their next attempt more likely to succeed. Failure can occur for many reasons: perhaps the marketplace is not ready; perhaps the technology is not ready for commercialization; perhaps the company runs out of money before it can gain traction.
+When one early startup company, Fingerworks, was struggling 
+to develop an affordable, reliable touch surface that distinguished 
+9780465050659-text.indd   2699780465050659-text.indd   269 8/19/13   5:22 PM8/19/13   5:22 PM
+
+270 The Design of Everyday Thingsamong multiple fingers, it almost quit because it was about to run 
+out of money. Apple however, anxious to get into this market, bought Fingerworks. When it became part of Apple, its financial needs were met and Fingerworks technology became the driving force behind Apple’s new products. Today, devices controlled by gestures are everywhere, so this type of interaction seems natural and obvious, but at the time, it was neither natural nor obvious. It took almost three decades from the invention of multitouch before companies were able to manufacture the technology with the required robustness, versatility, and very low cost necessary for the idea to be deployed in the home consumer market. Ideas take a long time to traverse the distance from conception to suc-cessful product.
+VIDEOPHONE: 
+CONCEIVED IN 1879—STILL NOT HER E
+The Wikipedia article on videophones, from which Figure 7.3 
+was taken, said: “George du Maurier’s cartoon of ‘an electric cam-
+era-obscura’ is often cited as an early prediction of television and also anticipated the videophone, in wide screen formats and flat screens.” Although the title of the drawing gives credit to Thomas Edison, he had nothing to do with this. This is sometimes called Stigler’s law: the names of famous people often get attached to ideas even though they had nothing to do with them.
+The world of product design offers many examples of Stigler’s 
+law. Products are thought to be the invention of the company that most successfully capitalized upon the idea, not the company that originated it. In the world of products, original ideas are the easy part. Actually producing the idea as a successful product is what is hard. Consider the idea of a video conversation. Thinking of the idea was so easy that, as we see in Figure 7.3, Punch magazine illus-trator du Maurier could draw a picture of what it might look like only two years after the telephone was invented. The fact that he could do this probably meant that the idea was already circulating. 
+By the late 1890s, Alexander Graham Bell had thought through a number of the design issues. But the wonderful scenario illustrated 
+9780465050659-text.indd   2709780465050659-text.indd   270 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ seven:  Design in the World of Business 271by du Maurier has still not become reality, one and one-half centu-
+ries later. Today, the videophone is barely getting established as a means of everyday communication.
+It is extremely difficult to develop all the details required to en-
+sure that a new idea works, to say nothing of finding components that can be manufactured in sufficient quantity, reliability, and af-fordability. With a brand-new concept, it can take decades before the public will endorse it. Inventors often believe their new ideas will revolutionize the world in months, but reality is harsher. Most new inventions fail, and even the few that succeed take decades to do so. Yes, even the ones we consider “fast.” Most of the time, the technology is unnoticed by the public as it circulates around 
+the research laboratories of the world or is tried by a few unsuc-cessful startup companies or adventurous early adopters.
+FIGURE 7.3  Predicting the Future: The Videophone in 1879.  The caption reads: 
+“Edison’s Telephonoscope (transmits light as well as sound). ( Every evening, before go-
+ing to bed, Pater- and Materfamilias set up an electric camera-obscura over their bedroom 
+mantel-piece, and gladden their eyes with the sight of their children at the Antipodes, and converse gaily with them through the wire. ”) 
+(Published in the December 9, 1878, issue of Punch  
+magazine. From “Telephonoscope,” Wikipedia.) 
+9780465050659-text.indd   2719780465050659-text.indd   271 8/19/13   5:22 PM8/19/13   5:22 PM
+
+272 The Design of Everyday ThingsIdeas that are too early often fail, even if eventually others in-
+troduce them successfully. I’ve seen this happen several times. 
+When I first joined Apple, I watched as it released one of the very first commercial digital cameras: the Apple QuickTake. It failed. Probably you are unaware that Apple ever made cameras. It failed because the technology was limited, the price high, and the world simply wasn’t ready to dismiss film and chemical processing of photographs. I was an adviser to a startup company that produced the world’s first digital picture frame. It failed. Once again, the technology didn’t quite support it and the product was relatively expensive. Obviously today, digital cameras and digital photo frames are extremely successful products, but neither Apple nor the startup I worked with are part of the story.
+Even as digital cameras started to gain a foothold in photog-
+raphy, it took several decades before they displaced film for still photographs. It is taking even longer to replace film-based mov-ies with those produced on digital cameras. As I write this, only a small number of films are made digitally, and only a small number of theaters project digitally. How long has the effort been going on? It is difficult to determine when the effort stated, but it has been a very long time. It took decades for high-definition television to replace the standard, very poor resolution of the previous genera-tion (NTSC in the United States and PAL and SECAM elsewhere). Why so long to get to a far better picture, along with far better sound? People are very conservative. Broadcasting stations would have to replace all their equipment. Homeowners would need new sets. Overall, the only people who push for changes of this sort are the technology enthusiasts and the equipment manufacturers. A bitter fight between the television broadcasters and the computer industry, each of which wanted different standards, also delayed adoption (described in Chapter 6).
+In the case of the videophone shown in Figure 7.3, the illus-
+tration is wonderful but the details are strangely lacking. Where would the video camera have to be located to display that won-derful panorama of the children playing? Notice that “Pater- and Materfamilias” are sitting in the dark (because the video image is 
+9780465050659-text.indd   2729780465050659-text.indd   272 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ seven:  Design in the World of Business 273projected by a “camera obscura,” which has a very weak output). 
+Where is the video camera that films the parents, and if they sit in the dark, how can they be visible? It is also interesting that al-though the video quality looks even better than we could achieve today, sound is still being picked up by trumpet-shaped telephones whose users need to hold the speaking tube to their face and talk (probably loudly). Thinking of the concept of a video connection was relatively easy. Thinking through the details has been very dif-ficult, and then being able to build it and put it into practice—well, it is now considerably over a century since that picture was drawn and we are just barely able to fulfill that dream. Barely.
+It took forty years for the first working videophones to be cre-
+ated (in the 1920s), then another ten years before the first product (in the mid-1930s, in Germany), which failed. The United States didn’t try commercial videophone service until the 1960s, thirty years after Germany; that service also failed. All sorts of ideas have been tried including dedicated videophone instruments, devices using the home television set, video conferencing with home per-sonal computers, special video-conferencing rooms in universities and companies, and small video telephones, some of which might be worn on the wrist. It took until the start of the twenty-first cen-tury for usage to pick up.
+Video conferencing finally started to become common in the 
+early 2010s. Extremely expensive videoconferencing suites have been set up in businesses and universities. The best commercial systems make it seem as if you are in the same room with the distant participants, using high-quality transmission of images and multiple, large monitors to display life-size images of people sitting across the table (one company, Cisco, even sells the table). This is 140 years from the first published conception, 90 years since the first practical demonstration, and 80 years since the first commercial release. Moreover, the cost, both for the equipment at each location and for the data-transmission charges, are much higher than the average person or business can afford: right now they are mostly used in corporate offices. Many people today do 
+engage in videoconferencing from their smart display devices, 
+9780465050659-text.indd   2739780465050659-text.indd   273 8/19/13   5:22 PM8/19/13   5:22 PM
+
+274 The Design of Everyday Thingsbut the experience is not nearly as good as provided by the best 
+commercial facilities. Nobody would confuse these experiences with being in the same room as the participants, something that the highest-quality commercial facilities aspire to (with remark-able success).
+Every modern innovation, especially the ones that significantly 
+change lives, takes multiple decades to move from concept to com-pany success A rule of thumb is twenty years from first demon-strations in research laboratories to commercial product, and then a decade or two from first commercial release to widespread adoption. Except that actually, most innovations fail completely and never reach the public. Even ideas that are excellent and will eventually succeed frequently fail when first introduced. I’ve been associated with a number of products that failed upon introduc-tion, only to be very successful later when reintroduced (by other companies), the real difference being the timing. Products that failed at first commercial introduction include the first American automobile (Duryea), the first typewriters, the first digital cameras, and the first home computers (for example, the Altair 8800 com-puter of 1975).
+THE LONG PROCESS OF DEVELOPMENT 
+OF THE TYPEWRITER KEYBOARD
+The typewriter is an ancient mechanical device, now found mostly 
+in museums, although still in use in newly developing nations. In addition to having a fascinating history, it illustrates the diffi-culties of introducing new products into society, the influence of marketing upon design, and the long, difficult path leading to new product acceptance. The history affects all of us because the type-writer provided the world with the arrangement of keys on today’s keyboards, despite the evidence that it is not the most efficient ar-rangement. Tradition and custom coupled with the large number of people already used to an existing scheme makes change diffi-cult or even impossible. This is the legacy problem once again: the heavy momentum of legacy inhibits change.
+9780465050659-text.indd   2749780465050659-text.indd   274 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ seven:  Design in the World of Business 275Developing the first successful typewriter was a lot more than 
+simply figuring out a reliable mechanism for imprinting the let-
+ters upon the paper, although that was a difficult task by itself. One question was the user interface: how should the letters be pre-sented to the typist? In other words, the design of the keyboard.
+Consider the typewriter keyboard, with its arbitrary, diagonally 
+sloping arrangement of keys and its even more arbitrary arrange-ment of their letters. Christopher Latham Sholes designed the cur-rent standard keyboard in the 1870s. His typewriter design, with its weirdly organized keyboard, eventually became the Remington typewriter, the first successful typewriter: its keyboard layout was soon adopted by everyone.
+The design of the keyboard has a long and peculiar history. Early 
+typewriters experimented with a wide variety of layouts, using three basic themes. One was circular, with the letters laid out al-phabetically; the operator would find the proper spot and depress a lever, lift a rod, or do whatever other mechanical operation the device required. Another popular layout was similar to a piano keyboard, with the letters laid out in a long row; some of the early keyboards, including an early version by Sholes, even had black and white keys. Both the circular layout and the piano keyboard proved awkward. In the end, the typewriter keyboards all ended up using multiple rows of keys in a rectangular configuration, with different companies using different arrangements of the letters. The levers manipulated by the keys were large and ungainly, and the 
+size, spacing, and arrangement of the keys were dictated by these 
+mechanical considerations, not by the characteristics of the human hand. Hence the keyboard sloped and the keys were laid out in a diagonal pattern to provide room for the mechanical linkages. Even though we no longer use mechanical linkages, the keyboard design is unchanged, even for the most modern electronic devices.
+Alphabetical ordering of keys seems logical and sensible: Why 
+did it change? The reason is rooted in the early technology of key-boards. Early typewriters had long levers attached to the keys. The levers moved individual typebars to contact the typing paper, 
+9780465050659-text.indd   2759780465050659-text.indd   275 8/19/13   5:22 PM8/19/13   5:22 PM
+
+276 The Design of Everyday Thingsusually from behind (the letters being typed could not be seen 
+from the front of the typewriter). These long type arms would of-ten collide and lock together, requiring the typist to separate them manually. To avoid the jamming, Sholes arranged the keys and the typebars so that letters that were frequently typed in sequence did not come from adjacent typebars. After a few iterations and ex-periments, a standard emerged, one that today governs keyboards used throughout the world, although with regional variations. The top row of the American keyboard has the keys Q W E R T Y U I O P , which gives rise to the name of this layout: QWERTY. The world has adopted the basic layout, although in Europe, for example, one can find QZERTY, AZERTY, and QWERTZ. Different languages use different alphabets, so obviously a number of keyboards had to move keys around to make room for additional characters.
+Note that popular legend has it that the keys were placed so as 
+to slow down the typing. This is wrong: the goal was to have the mechanical typebars approach one another at large angles, thus minimizing the chance of collision. In fact, we now know that the 
+FIGURE 7.4.  The 1872 Sholes Typewriter. Remington, the manufacturer of the 
+first successful typewriter, also made sewing machines. Figure A shows the in-
+fluence of the sewing machine upon the design with the use of a foot pedal for what eventually became the “return” key. A heavy weight hung from the frame advanced the carriage after each letter was struck, or when the large, rectangular plate under the typist’s left hand was depressed (this is the “space bar”). Pressing the foot pedal raised the weight. Figure B shows a blowup of the keyboard. Note that the second row shows a period (.) instead of R. 
+From Scientific American’s “The 
+Type Writer” (Anonymous, 1872).
+A. B.
+9780465050659-text.indd   2769780465050659-text.indd   276 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ seven:  Design in the World of Business 277QWERTY arrangement guarantees a fast typing speed. By plac-
+ing letters that form frequent pairs relatively far apart, typing is speeded because it tends to make letter pairs be typed with differ-ent hands .
+There is an unconfirmed story that a salesperson rearranged 
+the keyboard to make it possible to type the word typewriter on the second row, a change that violated the design principle of sep-arating letters that were typed sequentially. Figure 7.4B shows that the early Sholes keyboard was not QWERTY: the second row of keys had a period (.) where today we have R, and the P and R keys were on the bottom row (as well as other differences). Moving the R and P from the fourth row to the second makes it possible to type the word typewriter using only keys on the second row.
+There is no way to confirm the validity of the story. Moreover, 
+I have only heard it describe the interchange of the period and R keys, with no discussion of the P key. For the moment, suppose the story were true: I can imagine the engineering minds being outraged. This sounds like the traditional clash between the hard-headed, logical engineers and the noncomprehending sales and marketing force. Was the salesperson wrong? (Note that today we would call this a marketing decision, but the profession of mar-keting didn’t exist yet.) Well, before taking sides, realize that until then, every typewriter company had failed. Remington was going to come out with a typewriter with a weird arrangement of the keys. The sales staff were right to be worried. They were right to try anything that might enhance the sales efforts. And indeed, they succeeded: Remington became the leader in typewriters. Actually, its first model did not succeed. It took quite a while for the public to accept the typewriter.
+Was the keyboard really changed to allow the word typewriter  
+to be typed on one row? I cannot find any solid evidence. But it is clear that the positions of R and P were moved to the second row: compare Figure 7.4B with today’s keyboard.
+The keyboard was designed through an evolutionary process, 
+but the main driving forces were mechanical and marketing. Even though jamming isn’t a possibility with electronic keyboards and 
+9780465050659-text.indd   2779780465050659-text.indd   277 8/19/13   5:22 PM8/19/13   5:22 PM
+
+278 The Design of Everyday Thingscomputers and the style of typing has changed, we are committed 
+to this keyboard, stuck with it forever. But don’t despair: it really is a good arrangement. One legitimate area of concern is the high incidence of a kind of injury that befalls typists: carpal tunnel syn-drome. This ailment is a result of frequent and prolonged repetitive motions of the hand and wrist, so it is common among typists, musicians, and people who do a lot of handwriting, sewing, some sports, and assembly line work. Gestural keyboards, such as the one shown in Figure 7.2D, might reduce the incidence. The US Na-tional Institute of Health advises, “Ergonomic aids, such as split keyboards, keyboard trays, typing pads, and wrist braces, may be used to improve wrist posture during typing. Take frequent breaks when typing and always stop if there is tingling or pain.”
+August Dvorak, an educational psychologist, painstakingly 
+developed a better keyboard in the 1930s. The Dvorak keyboard layout is indeed superior to that of QWERTY, but not to the extent claimed. Studies in my laboratory showed that the typing speed on a QWERTY was only slightly slower than on a Dvorak, not differ-ent enough to make upsetting the legacy worthwhile. Millions of people would have to learn a new style of typing. Millions of type-writers would have to be changed. Once a standard is in place, the vested interests of existing practices impede change, even where the change would be an improvement. Moreover, in the case of 
+QWERTY versus Dvorak, the gain is simply not worth the pain. “Good enough” triumphs again.
+What about keyboards in alphabetical order? Now that we 
+no longer have mechanical constraints on keyboard ordering, wouldn’t they at least be easier to learn? Nope. Because the letters have to be laid out in several rows, just knowing the alphabet isn’t enough. You also have to know where the rows break, and today, every alphabetic keyboard breaks the rows at different points. One great advantage of QWERTY—that frequent letter pairs are typed with opposite hands—would no longer be true. In other words, forget it. In my studies, QWERTY and Dvorak typing speeds were considerably faster than those on alphabetic keyboards. And an 
+9780465050659-text.indd   2789780465050659-text.indd   278 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ seven:  Design in the World of Business 279alphabetical arrangement of the keys was no faster than a random 
+arrangement.
+Could we do better if we could depress more than one finger at 
+a time? Yes, court stenographers can out-type anyone else. They use chord keyboards, typing syllables, not individual letters, di-rectly onto the page—each syllable represented by the simultane-ous pressing of keys, each combination being called a “chord.” The most common keyboard for American law court recorders requires between two and six keys to be pressed simultaneously to code the digits, punctuation, and phonetic sounds of English.
+Although chord keyboards can be very fast—more than three 
+hundred words per minute is common—the chords are difficult to learn and to retain; all the knowledge has to be in the head. Walk up to any regular keyboard and you can use it right away. Just search for the letter you want and push that key. With a chord keyboard, you have to press several keys simultaneously. There is no way to label the keys properly and no way to know what to do just by looking. The casual typist is out of luck.
+Two Forms of Innovation: 
+Incremental and Radical
+There are two major forms of product innovation: one follows a natural, slow evolutionary process; the other is achieved through radical new development. In general, people tend to think of inno-vation as being radical, major changes, whereas the most common and powerful form of it is actually small and incremental.
+Although each step of incremental evolution is modest, con-
+tinual slow, steady improvements can result in rather significant changes over time. Consider the automobile. Steam-driven vehicles (the first automobiles) were developed in the late 1700s. The first commercial automobile was built in 1888 by the German Karl Benz (his company, Benz & Cie, later merged with Daimler and today is known as Mercedes-Benz).
+Benz’s automobile was a radical innovation. And although his firm 
+survived, most of its rivals did not. The first American automobile 
+9780465050659-text.indd   2799780465050659-text.indd   279 8/19/13   5:22 PM8/19/13   5:22 PM
+
+280 The Design of Everyday Thingscompany was Duryea, which only lasted a few years: being first 
+does not guarantee success. Although the automobile itself was a radical innovation, since its introduction it has advanced through continual slow, steady improvement, year after year: over a century of incremental innovation (with a few radical changes in compo-nents). Because of the century of incremental enhancement, today’s automobiles are much quieter, faster, more efficient, more comfort-able, safer, and less expensive (adjusted for inflation) than those early vehicles.
+Radical innovation changes paradigms. The typewriter was 
+a radical innovation that had dramatic impact upon office and home writing. It helped provide a role for women in offices as 
+typists and secr etaries, which led to the redefinition of the job of 
+secretary to be a dead end rather than the first step toward an executive position. Similarly, the automobile transformed home life, allowing people to live at a distance from their work and rad-ically impacting the world of business. It also turned out to be a massive source of air pollution (although it did eliminate horse manure from city streets). It is a major cause of accidental death, with a worldwide fatality rate of over one million each year. The introduction of electric lighting, the airplane, radio, television, home computer, and social networks all had massive social im-pacts. Mobile phones changed the phone industry, and the use of the technical communication system called packet switching led to the Internet. These are radical innovations. Radical innovation changes lives and industries. Incremental innovation makes things better. We need both.
+INCREMENTAL INNOVATION
+Most design evolves through incremental innovation by means of continual testing and refinement. In the ideal case, the design is tested, problem areas are discovered and modified, and then the product is continually retested and remodified. If a change makes matters worse, well, it just gets changed again on the next go-round. Eventually the bad features are modified into good ones, while the good ones are kept. The technical term for this process is  
+9780465050659-text.indd   2809780465050659-text.indd   280 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ seven:  Design in the World of Business 281hill climbing, analogous to climbing a hill blindfolded. Move your 
+foot in one direction. If it is downhill, try another direction. If the direction is uphill, take one step. Keep doing this until you have reached a point where all steps would be downhill; then you are at the top of the hill, or at least at a local peak.
+Hill climbing. This method is the secret to incremental innova-
+tion. This is at the heart of the human-centered design process dis-cussed in Chapter 6. Does hill climbing always work? Although it guarantees that the design will reach the top of the hill, what if the design is not on the best possible hill? Hill climbing cannot find higher hills: it can only find the peak of the hill it started from. Want to try a different hill? Try radical innovation, although that is as likely to find a worse hill as a better one.
+RADICAL INNOVATION
+Incremental innovation starts with existing products and makes them better. Radical innovation starts fresh, often driven by new technologies that make possible new capabilities. Thus, the inven-tion of vacuum tubes was a radical innovation, paving the way for rapid advances in radio and television. Similarly, the inven-tion of the transistor allowed dramatic advances in electronic de-vices, computational power, increased reliability, and lower costs. The development of GPS satellites unleashed a torrent of location-based services.
+A second factor is the reconsideration of the meaning of tech-
+nology. Modern data networks serve as an example. Newspapers, magazines, and books were once thought of as part of the pub-lishing industry, very different from radio and television broad-casting. All of these were different from movies and music. But once the Internet took hold, along with enhanced and inexpensive computer power and displays, it became clear that all of these dis-parate industries were really just different forms of information providers, so that all could be conveyed to customers by a single medium. This redefinition collapses together the publishing, tele-phone, television and cable broadcasting, and music industries. We still have books, newspapers, and magazines, television shows and 
+9780465050659-text.indd   2819780465050659-text.indd   281 8/19/13   5:22 PM8/19/13   5:22 PM
+
+282 The Design of Everyday Thingsmovies, musicians and music, but the way by which they are dis-
+tributed has changed, thereby requiring massive restructuring of their corresponding industries. Electronic games, another radical innovation, are combining with film and video on the one hand, and books on the other, to form new types of interactive engage-ment. The collapsing of industries is still taking place, and what will replace them is not yet clear.
+Radical innovation is what many people seek, for it is the big, 
+spectacular form of change. But most radical ideas fail, and even those that succeed can take decades and, as this chapter has al-ready illustrated, they may take centuries to succeed. Incremental product innovation is difficult, but these difficulties pale to insig-nificance compared to the challenges faced by radical innovation. Incremental innovations occur by the millions each year; radical innovation is far less frequent.
+What industries are ready for radical innovation? Try education, 
+transportation, medicine, and housing, all of which are overdue for major transformation.
+The Design of Everyday Things: 
+1988–2038
+Technology changes rapidly, people and culture change slowly. Or as the French put it:
+Plus ça change, plus c’est la même chose.
+The more things change, the more they are the same.
+Evolutionary change to people is always taking place, but the 
+pace of human evolutionary change is measured in thousands of years. Human cultures change somewhat more rapidly over peri-ods measured in decades or centuries. Microcultures, such as the way by which teenagers differ from adults, can change in a gener-ation. What this means is that although technology is continually introducing new means of doing things, people are resistant to changes in the way they do things.
+9780465050659-text.indd   2829780465050659-text.indd   282 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ seven:  Design in the World of Business 283Consider three simple examples: social interaction, communica-
+tion, and music. These represent three different human activities, 
+but each is so fundamental to human life that all three have per-sisted throughout recorded history and will persist, despite major changes in the technologies that support these activities. They are akin to eating: new technologies will change the types of food we eat and the way it is prepared, but will never eliminate the need to eat. People often ask me to predict “the next great change.” My answer is to tell them to examine some fundamentals, such as so-cial interaction, communication, sports and play, music and enter-tainment. The changes will take place within spheres of activity such as these. Are these the only fundamentals? Of course not: add education (and learning), business (and commerce), transporta-tion, self-expression, the arts, and of course, sex. And don’t forget important sustaining activities, such as the need for good health, food and drink, clothing, and housing. Fundamental needs will also stay the same, even if they get satisfied in radically different ways.
+The Design of Everyday Things was first published in 1988 (when it 
+was called The Psychology of Everyday Things ). Since the original pub-
+lication, technology has changed so much that even though the prin-ciples remained constant, many of the examples from 1988 are no longer relevant. The technology of interaction has changed. Oh yes, doors and switches, faucets and taps still provide the same difficul-ties they did back then, but now we have new sources of difficulties and confusion. The same principles that worked before still apply, but this time they must also be applied to intelligent machines, to the continuous interaction with large data sources, to social networks and to communication systems and products that enable lifelong interaction with friends and acquaintances across the world.
+We gesture and dance to interact with our devices, and in turn 
+they interact with us via sound and touch, and through multiple displays of all sizes—some that we wear; some on the floor, walls, or ceilings; and some projected directly into our eyes. We speak to our devices and they speak back. And as they get more and more intelligent, they take over many of the activities we thought that 
+9780465050659-text.indd   2839780465050659-text.indd   283 8/19/13   5:22 PM8/19/13   5:22 PM
+
+284 The Design of Everyday Thingsonly people could do. Artificial intelligence pervades our lives and 
+devices, from our thermostats to our automobiles. Technologies are always undergoing change.
+AS TECHNOLOGIES CHANGE 
+WILL PEOPLE STAY THE SAME?
+As we develop new forms of interaction and communication, 
+what new principles are required? What happens when we wear augmented reality glasses or embed more and more technology within our bodies? Gestures and body movements are fun, but not very precise.
+For many millennia, even though technology has undergone 
+radical change, people have remained the same. Will this hold true in the future? What happens as we add more and more enhance-ments inside the human body? People with prosthetic limbs will be faster, stronger, and better runners or sports players than nor-mal players. Implanted hearing devices and artificial lenses and corneas are already in use. Implanted memory and communica-tion devices will mean that some people will have permanently enhanced reality, never lacking for information. Implanted com-putational devices could enhance thinking, problem-solving, and decision-making. People might become cyborgs: part biology, part artificial technology. In turn, machines will become more like people, with neural-like computational abilities and humanlike behavior. Moreover, new developments in biology might add to the list of artificial supplements, with genetic modification of peo-ple and biological processors and devices for machines. 
+All of these changes raise considerable ethical issues. The long-
+held view that even as technology changes, people remain the same may no longer hold. Moreover, a new species is arising, artificial devices that have many of the capabilities of animals and people, sometimes superior abilities. (That machines might be better than people at some things has long been true: they are clearly stron-ger and faster. Even the simple desk calculator can do arithmetic better than we can, which is why we use them. Many computer programs can do advanced mathematics better than we can, which 
+9780465050659-text.indd   2849780465050659-text.indd   284 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ seven:  Design in the World of Business 285makes them valuable assistants.) People are changing; machines 
+are changing. This also means that cultures are changing.
+There is no question that human culture has been vastly impacted 
+by the advent of technology. Our lives, our family size and living arrangements, and the role played by business and education in our lives are all governed by the technologies of the era. Modern communication technology changes the nature of joint work. As some people get advanced cognitive skills due to implants, while some machines gain enhanced human-qualities through advanced technologies, artificial intelligence, and perhaps bionic technolo-gies, we can expect even more changes. Technology, people, and cultures: all will change.
+THINGS THAT MAKE US SMART
+Couple the use of full-body motion and gestures with high-quality auditory and visual displays that can be superimposed over the sounds and sights of the world to amplify them, to explain and annotate them, and we give to people power that exceeds anything ever known before. What do the limits of human memory mean when a machine can remind us of all that has happened before, at precisely the exact time the information is needed? One argument is that technology makes us smart: we remember far more than ever before and our cognitive abilities are much enhanced. 
+Another argument is that technology makes us stupid. Sure, we 
+look smart with the technology, but take it away and we are worse off than before it existed. We have become dependent upon our technologies to navigate the world, to hold intelligent conversa-tion, to write intelligently, and to remember.
+Once technology can do our arithmetic, can remember for us, 
+and can tell us how to behave, then we have no need to learn these things. But the instant the technology goes away, we are left helpless, unable to do any basic functions. We are now so dependent upon technology that when we are deprived, we suf-fer. We are unable to make our own clothes from plants and an-imal skins, unable to grow and harvest crops or catch animals. Without technology, we would starve or fr eeze to death. Without 
+9780465050659-text.indd   2859780465050659-text.indd   285 8/19/13   5:22 PM8/19/13   5:22 PM
+
+286 The Design of Everyday Thingscognitive technologies, will we fall into an equivalent state of 
+ignorance?
+These fears have long been with us. In ancient Greece, Plato tells 
+us that Socrates complained about the impact of books, arguing that reliance on written material would diminish not only memory but the very need to think, to debate, to learn through discussion. After all, said Socrates, when a person tells you something, you can question the statement, discuss and debate it, thereby enhanc-ing the material and the understanding. With a book, well, what can you do? You can’t argue back.
+But over the years, the human brain has remained much the 
+same. Human intelligence has certainly not diminished. True, we no longer learn how to memorize vast amounts of material. We no longer need to be completely proficient at arithmetic, for calculators—present as dedicated devices or on almost every computer or phone—take care of that task for us. But does that make us stupid? Does the fact that I can no longer remember my own phone number indicate my growing feebleness? No, on the contrary, it unleashes the mind from the petty tyranny of tending to the trivial and allows it to concentrate on the important and the critical.
+Reliance on technology is a benefit to humanity. With technol-
+ogy, the brain gets neither better nor worse. Instead, it is the task that changes. Human plus machine is more powerful than either human or machine alone.
+The best chess-playing machine can beat the best human chess 
+player. But guess what, the combination of human plus machine can beat the best human and the best machine. Moreover, this win-ning combination need not have the best human or machine. As MIT professor Erik Brynjolfsson explained at a meeting of the Na-tional Academy of Engineering:
+The best chess player in the world today is not a computer or a human 
+but a team of humans and computers working together. In freestyle chess competitions, where teams of humans and computers compete, 
+9780465050659-text.indd   2869780465050659-text.indd   286 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ seven:  Design in the World of Business 287the winners tend not to be the teams with the most powerful computers 
+or the best chess players. The winning teams are able to leverage the unique skills of humans and computers to work together. That is a met-aphor for what we can do going forward: have people and technology work together in new ways to create value. 
+(Brynjolfsson, 2012.)
+Why is this? Brynjolfsson and Andrew McAfee quote the 
+world-champion human chess player Gary Kasparov, explaining 
+why “the overall winner in a recent freestyle tournament had nei-ther the best human players nor the most powerful computers.” Kasparov described a team consisting of:
+a pair of amateur American chess players using three computers at the 
+same time. Their skill at manipulating and “coaching” their computers to look very deeply into positions effectively counteracted the superior chess understanding of their grandmaster opponents and the greater computational power of other participants.Weak human + machine + better process was superior to a strong computer alone and, more re-markably, superior to a strong human + machine + inferior process. 
+(Brynjolfsson & McAfee, 2011.)
+Moreover, Brynjolfsson and McAfee argue that the same pattern is 
+found in many activities, including both business and science: “The 
+key to winning the race is not to compete against machines but to com-pete with machines. Fortunately, humans are strongest exactly where computers are weak, creating a potentially beautiful partnership.”
+The cognitive scientist (and anthropologist) Edwin Hutchins of 
+the University of California, San Diego, has championed the power of distributed cognition, whereby some components are done by people (who may be distributed across time and space); other com-ponents, by our technologies. It was he who taught me how pow-erful this combination makes us. This provides the answer to the question: Does the new technology make us stupid? No, on the contrary, it changes the tasks we do. Just as the best chess player is a combination of human and technology, we, in combination 
+9780465050659-text.indd   2879780465050659-text.indd   287 8/19/13   5:22 PM8/19/13   5:22 PM
+
+288 The Design of Everyday Thingswith technology, are smarter than ever before. As I put it in my 
+book Things That Make Us Smart,  the power of the unaided mind is 
+highly overrated. It is things that make us smart.
+The power of the unaided mind is highly overrated. Without external 
+aids, deep, sustained reasoning is difficult. Unaided memory, thought, and reasoning are all limited in power. Human intelligence is highly flexible and adaptive, superb at inventing procedures and objects that overcome its own limits. The real powers come from devising external aids that enhance cognitive abilities. How have we increased memory, thought and reasoning? By the invention of external aids: it is things that make us smart. Some assistance comes through cooperative, social behavior: some arises through exploitation of the information pres-ent in the environment; and some comes through the development of tools of thought—cognitive artifacts—that complement abilities and strengthen mental powers. 
+(The opening paragraph of Chapter 3, T hings 
+That Make Us Smart, 1993.)
+The Future of Books
+It is one thing to have tools that aid in writing conventional books, 
+but quite another when we have tools that dramatically transform the book.
+Why should a book comprise words and some illustrations 
+meant to be read linearly from front to back? Why shouldn’t it be composed of small sections, readable in whatever order is desired? Why shouldn’t it be dynamic, with video and audio segments, perhaps changing according to who is reading it, including notes made by other readers or viewers, or incorporating the author’s latest thoughts, perhaps changing even as it is being read, where the word text could mean anything: voice, video, images, dia-grams, and words?
+Some authors, especially of fiction, might still prefer the linear 
+telling of tales, for authors are storytellers, and in stories, the or-der in which characters and events are introduced is important to build the suspense, keep the reader enthralled, and manage the emotional highs and lows that characterize great storytelling. But 
+9780465050659-text.indd   2889780465050659-text.indd   288 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ seven:  Design in the World of Business 289for nonfiction, for books like this one, order is not as important. 
+This book does not attempt to manipulate your emotions, to keep you in suspense, or to have dramatic peaks. You should be able to experience it in the order you prefer, reading items out of sequence and skipping whatever is not relevant to your needs.
+Suppose this book were interactive? If you have trouble under-
+standing something, suppose you could click on the page and I would pop up and explain something. I tried that many years ago with three of my books, all combined into one interactive electronic book. But the attempt fell prey to the demons of product design: good ideas that appear too early will fail.
+It took a lot of effort to produce that book. I worked with a large 
+team of people from Voyager Books, flying to Santa Monica, Cal-ifornia, for roughly a year of visits to film the excerpts and record my part. Robert Stein, the head of Voyager, assembled a talented team of editors, producers, videographers, interactive designers, and illustrators. Alas, the result was produced in a computer sys-tem called HyperCard, a clever tool developed by Apple but never really given full support. Eventually, Apple stopped supporting it and today, even though I still have copies of the original disks, they will not run on any existing machine. (And even if they could, the video resolution is very poor by today’s standards.)
+FIGURE 7.5.  The Voyager Interactive Electronic Book.  Figure A, on the left, is 
+me stepping on to a page of The  Design of Everyday Things . Figure B, on the right, 
+shows me explaining a point about graph design in my book Things That Make 
+Us Smart.
+B. A.
+9780465050659-text.indd   2899780465050659-text.indd   289 8/19/13   5:22 PM8/19/13   5:22 PM
+
+290 The Design of Everyday ThingsNotice the phrase “it took a lot of effort to produce that book.” 
+I don’t even remember how many people were involved, but the 
+credits include the following: editor-producer, art director–graphic designer, programmer, interface designers (four people, including me), the production team (twenty-seven people), and then special thanks to seventeen people.
+Yes, today anybody can record a voice or video essay. Anyone 
+can shoot a video and do simple editing. But to produce a pro-fessional-level multi media book of roughly three hundred pages 
+or two hours of video (or some combination) that will be read and enjoyed by people across the world requires an immense amount of talent and a variety of skills. Amateurs can do a five- or ten-minute video, but anything beyond that requires superb editing skills. Moreover, there has to be a writer, a cameraperson, a recording person, and a lighting person. There has to be a direc-tor to coordinate these activities and to select the best approach to each scene (chapter). A skilled editor is required to piece the seg-ments together. An electronic book on the environment, Al Gore’s interactive media book Our Choice (2011), lists a large number of 
+job titles for the people responsible for this one book: publishers (two people), editor, production director, production editor, and production supervisor, software architect, user interface engineer, engineer, interactive graphics, animations, graphics design, photo editor, video editors (two), videographer, music, and cover de-signer. What is the future of the book? Very expensive.
+The advent of new technologies is making books, interactive 
+media, and all sorts of educational and recreational material more effective and pleasurable. Each of the many tools makes creation easier. As a result, we will see a proliferation of materials. Most will be amateurish, incomplete, and somewhat incoherent. But even amateur productions can serve valuable functions in our lives, as the immense proliferation of homemade videos available on the Internet demonstrate, teaching us everything from how to cook Korean pajeon, repair a faucet, or understand Maxwell’s equations 
+of electromagnetic waves. But for high-quality professional mate-rial that tells a coherent story in a way that is reliable, where the 
+9780465050659-text.indd   2909780465050659-text.indd   290 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ seven:  Design in the World of Business 291facts have been checked and the message authoritative, where the 
+material will flow, experts are needed. The mix of technologies and tools makes quick and rough creation easier, but polished and professional level material much more difficult. The society of the future: something to look forward to with pleasure, contemplation, and dread.
+The Moral Obligations of Design
+That design affects society is hardly news to designers. Many take the implications of their work seriously. But the conscious manip-ulation of society has severe drawbacks, not the least of which is the fact that not everyone agrees on the appropriate goals. Design, therefore, takes on political significance; indeed, design philoso-phies vary in important ways across political systems. In Western cultures, design has reflected the capitalistic importance of the mar-ketplace, with an emphasis on exterior features deemed to be at-tractive to the purchaser. In the consumer economy, taste is not the criterion in the marketing of expensive foods or drinks, usability is not the primary criterion in the marketing of home and office appli-ances. We are surrounded with objects of desire, not objects of use.
+NEEDLESS FEATURES, NEEDLESS MODELS: 
+GOOD FOR BUSINESS, BAD FOR THE ENVIRONMENT
+In the world of consumable products, such as food and news, there 
+is always a need for more food and news. When the product is con-
+sumed, then the customers are consumers. A never-ending cycle. In the world of services, the same applies. Someone has to cook and serve the food in a restaurant, take care of us when we are sick, do the daily transactions we all need. Services can be self-sustaining because the need is always there.
+But a business that makes and sells durable goods faces a prob-
+lem: As soon as everyone who wants the product has it, then there is no need for more. Sales will cease. The company will go out of business.
+In the 1920s, manufacturers deliberately planned ways of making 
+their products become obsolete (although the practice had existed 
+9780465050659-text.indd   2919780465050659-text.indd   291 8/19/13   5:22 PM8/19/13   5:22 PM
+
+292 The Design of Everyday Thingslong before then). Products were built with a limited life span. Au-
+tomobiles were designed to fall apart. A story tells of Henry Ford’s buying scrapped Ford cars and having his engineers disassemble them to see which parts failed and which were still in good shape. Engineers assumed this was done to find the weak parts and make them stronger. Nope. Ford explained that he wanted to find the parts that were still in good shape. The company could save money if they redesigned these parts to fail at the same time as the others.
+Making things fail is not the only way to sustain sales. The wom-
+en’s clothing industry is an example: what is fashionable this year is not next year, so women are encouraged to replace their wardrobe every season, every year. The same philosophy was soon extended to the automobile industry, where dramatic style changes on a reg-ular basis made it obvious which people were up to date; which people were laggards, driving old-fashioned vehicles. The same is true for our smart screens, cameras, and TV sets. Even the kitchen and laundry, where appliances used to last for decades, have seen the impa ct of fashion. Now, out-of-date features, out-of-date styling, 
+and even out-of-date colors entice homeowners to change. There are some gender differences. Men are not as sensitive as women to fashion in clothes, but they more than make up for the difference by their interest in the latest fashions in automobiles and other technologies.
+But why purchase a new computer when the old one is func-
+tioning perfectly well? Why buy a new cooktop or refrigerator, a new phone or camera? Do we really need the ice cube dispenser in the door of the refrigerator, the display screen on the oven door, the navigation system that uses three-dimensional images? What is the cost to the environment for all the materials and energy used to manufacture the new products, to say nothing of the problems of disposing safely of the old?
+Another model for sustainability is the subscription model. Do 
+you have an electronic reading device, or music or video player? Subscribe to the service that provides articles and news, music and entertainment, video and movies. These are all consumables, so 
+9780465050659-text.indd   2929780465050659-text.indd   292 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ seven:  Design in the World of Business 293even though the smart screen is a fixed, durable good, the sub-
+scription guarantees a steady stream of money in return for ser-vices. Of course this only works if the manufacturer of the durable good is also the provider of services. If not, what alternatives are there?
+Ah, the model year: each year a new model can be introduced, 
+just as good as the previous year’s model, only claiming to be bet-ter. It always increases in power and features. Look at all the new features. How did you ever exist without them? Meanwhile, sci-entists, engineers, and inventors are busy developing yet newer technologies. Do you like your television? What if it were in three dimensions? With multiple channels of surround sound? With vir-tual goggles so you are surrounded by the images, 360 degrees’ worth? Turn your head or body and see what is happening behind you. When you watch sports, you can be inside the team, experi-encing the game the way the team does. Cars not only will drive themselves to make you safer, but provide lots of entertainment along the way. Video games will keep adding layers and chapters, new story lines and characters, and of course, 3-D virtual envi-ronments. Household appliances will talk to one another, telling remote households the secrets of our usage patterns.
+The design of everyday things is in great danger of becoming the 
+design of superfluous, overloaded, unnecessary things.
+Design Thinking and 
+Thinking About Design
+Design is successful only if the final product is successful—if peo-ple buy it, use it, and enjoy it, thus spreading the word. A design that people do not purchase is a failed design, no matter how great the design team might consider it.
+Designers need to make things that satisfy people’s needs, in 
+terms of function, in terms of being understandable and usable, and in terms of their ability to deliver emotional satisfaction, pride, and delight. In other words, the design must be thought of as a total experience.
+9780465050659-text.indd   2939780465050659-text.indd   293 8/19/13   5:22 PM8/19/13   5:22 PM
+
+294 The Design of Everyday ThingsBut successful products need more than a great design. They 
+have to be able to be produced reliably, efficiently, and on sched-
+ule. If the design complicates the engineering requirements so much that they cannot be realized within the cost and scheduling 
+constraints, then the design is flawed. Similarly, if manufacturing cannot pr oduce the product, then the design is flawed.
+Marketing considerations are important. Designers want to sat-
+isfy people’s needs. Marketing wants to ensure that people ac-tually buy and use the product. These are two different sets of requirements: design must satisfy both. It doesn’t matter how great the design is if people don’t buy it. And it doesn’t matter how many people buy something if they are going to dislike it when they start using it. Designers will be more effective as they learn more about sales and marketing, and the financial parts of the business.
+Finally, products have a complex life cycle. Many people will 
+need assistance in using a device, either because the design or the manual is not clear, or because they are doing something novel that was not considered in the product development, or for numerous other reasons. If the service provided to these people is inadequate, the product will suffer. Similarly if the device must be maintained, repaired, or upgraded, how this is managed affects people’s appre-ciation of the product.
+In today’s environmentally sensitive world, the full life cycle of 
+the product must be taken into consideration. What are the envi-ronmental costs of the materials, of the manufacturing process, of distribution, servicing, and repairs? When it is time to replace the unit, what is the environmental impact of recycling or otherwise reusing the old?
+The product development process is complex and difficult. But 
+to me, that is why it can be so rewarding. Great products pass through a gauntlet of challenges. To satisfy the myriad needs re-quires skill as well as patience. It requires a combination of high technical skills, great business skills, and a large amount of per-sonal social skills for interacting with the many other groups that 
+9780465050659-text.indd   2949780465050659-text.indd   294 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ seven:  Design in the World of Business 295are involved, all of whom have their own agendas, all of which 
+believe their requirements to be critical.
+Design consists of a series of wonderful, exciting challenges, 
+with each challenge being an opportunity. Like all great drama, it has its emotional highs and lows, peaks and valleys. The great products overcome the lows and end up high.
+Now you are on your own. If you are a designer, help fight the 
+battle for usability. If you are a user, then join your voice with those who cry for usable products. Write to manufacturers. Boycott un-usable designs. Support good designs by purchasing them, even if it means going out of your way, even if it means spending a bit more. And voice your concerns to the stores that carry the prod-ucts; manufacturers listen to their customers.
+When you visit museums of science and technology, ask ques-
+tions if you have trouble understanding. Provide feedback about the exhibits and whether they work well or poorly. Encourage mu-seums to move toward better usability and understandability.
+And enjoy yourself. Walk around the world examining the de-
+tails of design. Learn how to observe. Take pride in the little things that help: think kindly of the person who so thoughtfully put them in. Realize that even details matter, that the designer may have had to fight to include something helpful. If you have difficulties, remember, it’s not your fault: it’s bad design. Give prizes to those who practice good design: send flowers. Jeer those who don’t: send weeds.
+Technology continually changes. Much is for the good. Much 
+is not. All technology can be used in ways never intended by the inventors. One exciting development is what I call “the rise of 
+the small.”
+THE RISE OF THE SMALL
+I dream of the power of individuals, whether alone or in small groups, to unleash their creative spirits, their imagination, and their talents to develop a wide range of innovation. New tech-nologies promise to make this possible. Now, for the first time 
+9780465050659-text.indd   2959780465050659-text.indd   295 8/19/13   5:22 PM8/19/13   5:22 PM
+
+296 The Design of Everyday Thingsin history, individuals can share their ideas, their thoughts and 
+dreams. They can produce their own products, their own ser-vices, and make these available to anyone in the world. All can be their own master, exercising whatever special talents and in-terests they may have.
+What drives this dream? The rise of small, efficient tools that 
+empower individuals. The list is large and growing continuously. Consider the rise of musical explorations through conventional, elec-tronic, and virtual instruments. Consider the rise of self-publishing, bypassing conventional publishers, printers and distributors, and replacing these with inexpensive electronic editions available to anyone in the world to download to e-book readers.
+Witness the rise of billions of small videos, available to all. Some 
+are simply self-serving, some are incredibly educational, and some are humorous, some serious. They cover everything from how to make spätzle to how to understand mathematics, or simply how to dance or play a musical instrument. Some films are purely for entertainment. Universities are getting into the act, sharing whole curricula, including videos of lectures. College students post their class assignments as videos and text, allowing the whole world to benefit from their efforts. Consider the same phenomenon in writ-ing, reporting events, and the creation of music and art.
+Add to these capabilities the ready availability of inexpensive 
+motors, sensors, computation, and communication. Now consider the potential when 3-D printers increase in performance while decreasing in price, allowing individuals to manufacture custom items whenever they are required. Designers all over the world will publish their ideas and plans, enabling entire new industries of custom mass production. Small quantities can be made as inex-pensively as large, and individuals might design their own items or rely on an ever-increasing number of freelance designers who will publish plans that can then be customized and printed at local 3-D print shops or within their own homes.
+Consider the rise of specialists to help plan meals and cook them, 
+to modify designs to fit needs and circumstances, to tutor on a 
+9780465050659-text.indd   2969780465050659-text.indd   296 8/19/13   5:22 PM8/19/13   5:22 PM
+
+ seven:  Design in the World of Business 297wide variety of topics. Experts share their knowledge on blogs and 
+on Wikipedia, all out of altruism, being rewarded by the thanks of their readers.
+I dream of a renaissance of talent, where people are empowered 
+to create, to use their skills and talents. Some may wish for the safety and security of working for organizations. Some may wish to start new enterprises. Some may do this as hobbies. Some may band together into small groups and cooperatives, the better to as-semble the variety of skills required by modern technology, to help share their knowledge, to teach one another, and to assemble the critical mass that will always be needed, even for small projects. Some may hire themselves out to provide the necessary skills re-quired of large projects, while still keeping their own freedom and authority.
+In the past, innovation happened in the industrialized nations 
+and with time, each innovation became more powerful, more com-plex, often bloated with features. Older technology was given to the developing nations. The cost to the environment was seldom considered. But with the rise of the small, with new, flexible, inex-pensive technologies, the power is shifting. Today, anyone in the world can create, design, and manufacture. The newly developed nations are taking advantage, designing and building by them-selves, for themselves. Moreover, out of necessity they develop advanced devices that require less power, that are simpler to make, maintain, and use. They develop medical procedures that don’t re-
+quire refrigeration or continual access to electric power. Instead of using handed-down technology, their results add value for all of us—call it handed-up technology.
+With the rise of global interconnection, global communication, 
+powerful design, and manufacturing methods that can be used by all, the world is rapidly changing. Design is a powerful equal-izing tool: all that is needed is observation, creativity, and hard work—anyone can do it. With open-source software, inexpensive open-source 3-D printers, and even open-source education, we can transform the world.
+9780465050659-text.indd   2979780465050659-text.indd   297 8/19/13   5:22 PM8/19/13   5:22 PM
+
+298 The Design of Everyday ThingsAS THE WORLD CHANGES, 
+WHAT STAYS THE SAME?
+With massive change, a number of fundamental principles stay 
+the same. Human beings have always been social beings. Social interaction and the ability to keep in touch with people across the world, across time, will stay with us. The design principles of this book will not change, for the principles of discoverability, of feed-back, and of the power of affordances and signifiers, mapping, and conceptual models will always hold. Even fully autonomous, auto-matic machines will follow these principles for their interactions. Our technologies may change, but the fundamental principles of interaction are permanent.
+9780465050659-text.indd   2989780465050659-text.indd   298 8/19/13   5:22 PM8/19/13   5:22 PM
+
