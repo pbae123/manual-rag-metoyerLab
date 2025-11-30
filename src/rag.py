@@ -84,13 +84,13 @@ def main():
     #store all chapter chunks in Pinecone 
     vectorstore = PineconeVectorStore.from_texts(chunks, embeddings, index_name=index_name)
     
-    # --- Build retriever ---
+    # Build retriever
     retriever = vectorstore.as_retriever(
         search_type="similarity",
         search_kwargs={"k": 10}
     )
     
-    # --- Build RAG chain ---
+    # Build RAG chain
     chain = (
         {"context": retriever, "question": RunnablePassthrough()}
         | prompt
@@ -98,7 +98,7 @@ def main():
         | parser
     )
     
-    # --- Ask a question ---
+    # Ask a question
     query = input("\n Enter your question: ")
     result = chain.invoke(query)
     print("\n Answer:\n", result)
