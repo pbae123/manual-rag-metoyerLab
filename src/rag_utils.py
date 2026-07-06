@@ -89,7 +89,11 @@ def build_rag(chapter_list, index_name):
     #prompt template (instructions + context + user question)
     template = """
     Answer the question based on the following context. 
-    If you can't find the answer, just say that you don't know.
+    If you can't find the answer, just say that you don't know and provide a reason why.
+
+    Include citations of all pages and chapters when necessary (i.e. after sentences)
+    1. Chapter(s) used: 
+    2. Page(s) used: 
     
     Context: {context}
     
