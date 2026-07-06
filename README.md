@@ -14,7 +14,7 @@ Prerequisite: Git installed
 ```git clone https://github.com/pbae123/manual-rag-metoyerLab.git```
 
 2. Create and activate a virtual environment:
-```pytho3 -m venv venv```
+```python3 -m venv venv```
 ```source .venv/bin/activate```
 
 ### Installation
