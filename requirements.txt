@@ -3,11 +3,11 @@ python-dotenv>=1.0.1
 scikit-learn>=1.5.0
 
 # LangChain ecosystem
-langchain>=0.2.11
-langchain-core>=0.2.24
-langchain-community>=0.2.8
-langchain-openai>=0.1.15
-langchain-pinecone>=0.1.1
+langchain>=1.0.2
+langchain-core>=1.4.8
+langchain-community>=0.4.1
+langchain-openai>=1.0.1
+langchain-pinecone>=0.2.13
 langchain-text-splitters>=0.2.1
 
 # Pinecone client
@@ -17,6 +17,6 @@ pinecone-client>=3.2.0
 docarray>=0.40.0
 
 # Gemini RAG (geminiRag/)
-langchain-google-genai>=0.0.1
+langchain-google-genai>=2.0.0
 langchain-chroma>=1.0.0
 pypdf>=6.1.3

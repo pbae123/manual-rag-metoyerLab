@@ -36,21 +36,21 @@ def main():
     #build RAG based on user choice
     if choice == "1":
         print("\nBuilding full-book RAG...")
-        chain = build_rag(
+        pipeline = build_rag(
             chapter_list=chapter_files,
             index_name="manualrag-full"
         )
 
     elif choice == "2":
         print("\nBuilding Chapter 2 RAG...")
-        chain = build_rag(
+        pipeline = build_rag(
             chapter_list=["ch02.txt"],
             index_name="manualrag-ch2"
         )
 
     elif choice == "3":
         print("\nBuilding Chapter 4 RAG...")
-        chain = build_rag(
+        pipeline = build_rag(
             chapter_list=["ch04.txt"],
             index_name="manualrag-ch4"
         )
@@ -61,7 +61,7 @@ def main():
 
     # Ask a question
     query = input("\nEnter your question: ")
-    result = chain.invoke(query)  #feed user input into selected RAG pipeline
+    result = pipeline.chain.invoke(query)  #feed user input into selected RAG pipeline
 
     print("\nAnswer:\n", result)
 

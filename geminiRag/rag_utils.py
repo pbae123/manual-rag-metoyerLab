@@ -1,18 +1,28 @@
 # rag_utils.py
 import os
 import re
+from dataclasses import dataclass
 from dotenv import load_dotenv
 from langchain_community.document_loaders import PyPDFLoader, TextLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_google_genai import GoogleGenerativeAIEmbeddings, ChatGoogleGenerativeAI
 from langchain_chroma import Chroma
+from langchain_core.embeddings import Embeddings
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
-from langchain_core.runnables import RunnablePassthrough
+from langchain_core.retrievers import BaseRetriever
+from langchain_core.runnables import Runnable, RunnablePassthrough
 
 load_dotenv()
 
 GOOGLE_API_KEY = os.getenv("GEMINI_API_KEY")
+
+
+@dataclass(frozen=True)
+class RagPipeline:
+    chain: Runnable
+    retriever: BaseRetriever
+    embeddings: Embeddings
 
 def clean_document_text(documents):
     """Cleaning logic for documents."""
@@ -151,5 +161,5 @@ def build_gemini_rag(file_path, collection_name, model_version="gemini-1.5-flash
         {"context": retriever | format_docs_with_citations, "question": RunnablePassthrough()}
         | prompt | model | StrOutputParser()
     )
-    
-    return chain
+
+    return RagPipeline(chain=chain, retriever=retriever, embeddings=embeddings)

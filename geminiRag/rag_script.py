@@ -100,9 +100,9 @@ def main():
             print(f"   (Applying Page Offset: {current_offset})")
             
             # Build the pipeline with the offset
-            chain = build_gemini_rag(file_to_load, collection_name, SELECTED_MODEL, page_offset=current_offset)
+            pipeline = build_gemini_rag(file_to_load, collection_name, SELECTED_MODEL, page_offset=current_offset)
 
-            if not chain:
+            if not pipeline:
                 print("❌ Setup failed. Returning to menu.")
                 continue
 
@@ -125,7 +125,7 @@ def main():
 
                 try:
                     print("⏳ Thinking...")
-                    response = chain.invoke(query)
+                    response = pipeline.chain.invoke(query)
                     print(f"\n🤖 Answer:\n{response}")
                     print("-" * 50)
                 except Exception as e:

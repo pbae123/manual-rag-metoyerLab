@@ -1,5 +1,9 @@
 import os
+from dataclasses import dataclass
 from dotenv import load_dotenv
+from langchain_core.embeddings import Embeddings
+from langchain_core.retrievers import BaseRetriever
+from langchain_core.runnables import Runnable
 from langchain_openai import ChatOpenAI
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
@@ -10,7 +14,14 @@ from langchain_core.runnables import RunnablePassthrough
 from pinecone import Pinecone as PineconeClient, ServerlessSpec
 
 
-def build_rag(chapter_list, index_name):
+@dataclass(frozen=True)
+class RagPipeline:
+    chain: Runnable
+    retriever: BaseRetriever
+    embeddings: Embeddings
+
+
+def build_rag(chapter_list, index_name) -> RagPipeline:
     """
     Build a RAG system for a specific set of chapters.
 
@@ -18,7 +29,7 @@ def build_rag(chapter_list, index_name):
     index_name: name of Pinecone index to use (keeps each RAG system separate)
 
     Returns:
-        A LangChain RAG pipeline (retriever + prompt + model + parser)
+        A RagPipeline bundling the chain, retriever, and embeddings model
     """
 
     #allows you to access environment variables
@@ -113,4 +124,4 @@ def build_rag(chapter_list, index_name):
         | parser  # creates clean output string
     )
 
-    return chain
+    return RagPipeline(chain=chain, retriever=retriever, embeddings=embeddings)

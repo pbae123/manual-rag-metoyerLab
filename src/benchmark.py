@@ -12,6 +12,10 @@ Metrics:
     - Each answer scored 1–10 by GPT-4o-mini on relevance + completeness
     - Chapter citation hit rate: does the answer cite the expected chapter?
 
+  Retrieval accuracy (OpenAI vs Gemini, full-book):
+    - Avg cosine similarity between each query and its retrieved chunks,
+      computed separately per system's own embedding space, then compared
+
 Usage:
     cd /Users/peterbae/Documents/manual-rag-metoyerLab
     python src/benchmark.py
@@ -21,6 +25,8 @@ Pinecone even if the index already exists. Run this script on fresh indices,
 or delete and recreate them beforehand to avoid duplicate vectors.
 """
 
+import importlib.util
+import math
 import os
 import sys
 import time
@@ -33,9 +39,19 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 sys.path.insert(0, os.path.dirname(__file__))
-from rag_utils import build_rag
+from rag_utils import build_rag, RagPipeline
 
 load_dotenv()
+
+# geminiRag/rag_utils.py shares the module name "rag_utils" with src/rag_utils.py,
+# so it's loaded under an aliased module name to avoid clobbering the import above.
+_GEMINI_UTILS_PATH = os.path.join(
+    os.path.dirname(__file__), "..", "geminiRag", "rag_utils.py"
+)
+_spec = importlib.util.spec_from_file_location("gemini_rag_utils", _GEMINI_UTILS_PATH)
+gemini_rag_utils = importlib.util.module_from_spec(_spec)
+_spec.loader.exec_module(gemini_rag_utils)
+build_gemini_rag = gemini_rag_utils.build_gemini_rag
 
 # ---------------------------------------------------------------------------
 # Test queries
@@ -116,6 +132,45 @@ def measure_chunking(chapter_list: list[str], chapters_dir: str = "data/chapters
         "char_count": len(full_text),
         "chunking_time_s": elapsed,
     }
+
+
+def cosine_similarity(vec1: list[float], vec2: list[float]) -> float:
+    """Cosine similarity between two embedding vectors."""
+    dot = sum(a * b for a, b in zip(vec1, vec2))
+    norm1 = math.sqrt(sum(a * a for a in vec1))
+    norm2 = math.sqrt(sum(b * b for b in vec2))
+    if norm1 == 0 or norm2 == 0:
+        return 0.0
+    return dot / (norm1 * norm2)
+
+
+def measure_retrieval_similarity(pipeline: RagPipeline, queries: list[dict]) -> dict:
+    """
+    For each query, embed the question and its retrieved chunks with the
+    pipeline's own embedding model, then average their cosine similarity.
+
+    NOTE: OpenAI and Gemini embeddings live in different vector spaces
+    (different dimensions, different training), so these averages are only
+    comparable as a relative signal across systems, not an exact apples-to-apples score.
+    """
+    per_query = []
+    for q in queries:
+        question = q["question"]
+        query_vec = pipeline.embeddings.embed_query(question)
+        docs = pipeline.retriever.invoke(question)
+        if not docs:
+            continue
+        doc_vecs = pipeline.embeddings.embed_documents([d.page_content for d in docs])
+        sims = [cosine_similarity(query_vec, v) for v in doc_vecs]
+        per_query.append({
+            "question": question,
+            "avg_similarity": statistics.mean(sims),
+        })
+
+    avg_similarity = (
+        statistics.mean(r["avg_similarity"] for r in per_query) if per_query else 0.0
+    )
+    return {"avg_similarity": avg_similarity, "per_query": per_query}
 
 
 def score_answer(llm: ChatOpenAI, question: str, answer: str) -> float:
@@ -295,12 +350,12 @@ def main():
           f"Local chunk time: {full_chunk_stats['chunking_time_s']*1000:.1f} ms")
 
     t_build_start = time.perf_counter()
-    full_chain = build_rag(chapter_list=all_chapters, index_name="manualrag-full")
+    full_pipeline = build_rag(chapter_list=all_chapters, index_name="manualrag-full")
     full_build_time = time.perf_counter() - t_build_start
     print(f"      Build complete in {full_build_time:.2f}s\n")
 
     print("      Running queries...")
-    full_results = run_queries(full_chain, TEST_QUERIES, judge_llm, QUERY_TRIALS)
+    full_results = run_queries(full_pipeline.chain, TEST_QUERIES, judge_llm, QUERY_TRIALS)
 
     # ------------------------------------------------------------------
     # 2. Chapter-specific RAG (ch02 only — most test queries target ch02/ch04)
@@ -315,19 +370,56 @@ def main():
           f"Local chunk time: {chap_chunk_stats['chunking_time_s']*1000:.1f} ms")
 
     t_build_start = time.perf_counter()
-    chap_chain = build_rag(chapter_list=CHAPTER_SPECIFIC, index_name="manualrag-ch2")
+    chap_pipeline = build_rag(chapter_list=CHAPTER_SPECIFIC, index_name="manualrag-ch2")
     chap_build_time = time.perf_counter() - t_build_start
     print(f"      Build complete in {chap_build_time:.2f}s\n")
 
     print("      Running queries...")
-    chap_results = run_queries(chap_chain, TEST_QUERIES, judge_llm, QUERY_TRIALS)
+    chap_results = run_queries(chap_pipeline.chain, TEST_QUERIES, judge_llm, QUERY_TRIALS)
 
     # ------------------------------------------------------------------
-    # 3. Reports
+    # 3. Reports (Full-book vs Chapter-specific, OpenAI only)
     # ------------------------------------------------------------------
     print_summary("FULL-BOOK RAG", full_chunk_stats, full_build_time, full_results)
     print_summary("CHAPTER-SPECIFIC RAG (ch02)", chap_chunk_stats, chap_build_time, chap_results)
     print_comparison(full_results, chap_results)
+
+    # ------------------------------------------------------------------
+    # 4. OpenAI vs Gemini retrieval cosine similarity (full-book, both sides)
+    # ------------------------------------------------------------------
+    print(f"\n{'='*60}")
+    print("  RETRIEVAL COSINE SIMILARITY: OpenAI vs Gemini (full-book)")
+    print(f"{'='*60}")
+
+    PDF_PATH = os.path.join("data", "The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf")
+    print("\nBuilding Gemini full-book RAG (Chroma)...")
+    gemini_pipeline = build_gemini_rag(
+        file_path=PDF_PATH,
+        collection_name="benchmark-full-book",
+    )
+
+    if gemini_pipeline is None:
+        print("  Skipped: Gemini pipeline failed to build (see error above).")
+    else:
+        openai_similarity = measure_retrieval_similarity(full_pipeline, TEST_QUERIES)
+        gemini_similarity = measure_retrieval_similarity(gemini_pipeline, TEST_QUERIES)
+
+        openai_avg = openai_similarity["avg_similarity"]
+        gemini_avg = gemini_similarity["avg_similarity"]
+        leader = "OpenAI" if openai_avg > gemini_avg else "Gemini"
+        gap_pct = (
+            abs(openai_avg - gemini_avg) / max(openai_avg, gemini_avg) * 100
+            if max(openai_avg, gemini_avg) > 0 else 0.0
+        )
+
+        print(f"\n  OpenAI avg cosine similarity : {openai_avg:.4f}")
+        print(f"  Gemini avg cosine similarity : {gemini_avg:.4f}")
+        print(f"  {leader} outperformed by {gap_pct:.1f}%")
+        print(
+            "\n  Note: OpenAI and Gemini embeddings live in different vector spaces "
+            "(1536-dim vs 768-dim), so this is a relative signal, not an exact "
+            "apples-to-apples score."
+        )
 
     print("\n  Done.")
 
