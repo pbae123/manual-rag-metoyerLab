@@ -32,6 +32,7 @@ import sys
 import time
 import statistics
 
+import chromadb
 from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
 from langchain_core.output_parsers import StrOutputParser
@@ -132,6 +133,19 @@ def measure_chunking(chapter_list: list[str], chapters_dir: str = "data/chapters
         "char_count": len(full_text),
         "chunking_time_s": elapsed,
     }
+
+
+def _reset_chroma_collection(collection_name: str, persist_directory: str = "./chroma_db") -> None:
+    """
+    Delete a Chroma collection if it exists, so repeated benchmark runs start
+    from a clean index instead of silently accumulating duplicate chunks.
+    Only touches the named collection; other collections in the same
+    persist_directory (e.g. from interactive geminiRag/rag_script.py use) are untouched.
+    """
+    client = chromadb.PersistentClient(path=persist_directory)
+    existing = [c.name for c in client.list_collections()]
+    if collection_name in existing:
+        client.delete_collection(collection_name)
 
 
 def cosine_similarity(vec1: list[float], vec2: list[float]) -> float:
@@ -391,11 +405,16 @@ def main():
     print("  RETRIEVAL COSINE SIMILARITY: OpenAI vs Gemini (full-book)")
     print(f"{'='*60}")
 
-    PDF_PATH = os.path.join("data", "The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf")
-    print("\nBuilding Gemini full-book RAG (Chroma)...")
+    GEMINI_COLLECTION = "benchmark-full-book"
+    _reset_chroma_collection(GEMINI_COLLECTION)
+
+    chapter_paths = [os.path.join(CHAPTERS_DIR, f) for f in all_chapters]
+    print("\nBuilding Gemini full-book RAG (Chroma, same chapter .txt files as OpenAI)...")
     gemini_pipeline = build_gemini_rag(
-        file_path=PDF_PATH,
-        collection_name="benchmark-full-book",
+        file_path=chapter_paths,
+        collection_name=GEMINI_COLLECTION,
+        search_type="similarity",
+        k=10,
     )
 
     if gemini_pipeline is None:

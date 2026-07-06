@@ -47,31 +47,48 @@ def clean_document_text(documents):
         cleaned_documents.append(doc)
     return cleaned_documents
 
-def build_gemini_rag(file_path, collection_name, model_version="gemini-1.5-flash", page_offset=0):
+def build_gemini_rag(
+    file_path,
+    collection_name,
+    model_version="gemini-1.5-flash",
+    page_offset=0,
+    search_type="mmr",
+    k=8,
+    fetch_k=50,
+):
     """
     Builds the RAG pipeline with Citation Support.
     Args:
+        file_path: a single path, or a list of paths, to .pdf/.txt source files.
         page_offset (int): The starting page index (0-based) of this file relative to the original book.
+        search_type: retriever search type ("mmr" or "similarity").
+        k: number of chunks to retrieve.
+        fetch_k: candidate pool size for MMR (ignored for "similarity").
     """
-    if not os.path.exists(file_path):
-        print(f"❌ Error: File not found: {file_path}")
-        return None
+    file_paths = file_path if isinstance(file_path, list) else [file_path]
 
-    print(f"📖 Loading {file_path} into collection: '{collection_name}'...")
-    
-    # --- Use PyPDFLoader to capture Page Metadata ---
-    if file_path.endswith(".pdf"):
-        print("   Detected PDF format (scanning for page numbers)...")
-        loader = PyPDFLoader(file_path)
-    elif file_path.endswith(".txt"):
-        print("   Detected Text format.")
-        loader = TextLoader(file_path, encoding="utf-8") 
-    else:
-        print("❌ Error: Unsupported file format.")
-        return None
+    all_raw_docs = []
+    for path in file_paths:
+        if not os.path.exists(path):
+            print(f"❌ Error: File not found: {path}")
+            return None
 
-    raw_docs = loader.load()
-    cleaned_docs = clean_document_text(raw_docs)
+        print(f"📖 Loading {path} into collection: '{collection_name}'...")
+
+        # --- Use PyPDFLoader to capture Page Metadata ---
+        if path.endswith(".pdf"):
+            print("   Detected PDF format (scanning for page numbers)...")
+            loader = PyPDFLoader(path)
+        elif path.endswith(".txt"):
+            print("   Detected Text format.")
+            loader = TextLoader(path, encoding="utf-8")
+        else:
+            print("❌ Error: Unsupported file format.")
+            return None
+
+        all_raw_docs.extend(loader.load())
+
+    cleaned_docs = clean_document_text(all_raw_docs)
 
     # Split text (Metadata is preserved during split)
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
@@ -89,7 +106,14 @@ def build_gemini_rag(file_path, collection_name, model_version="gemini-1.5-flash
         persist_directory="./chroma_db"
     )
 
-    retriever = vectorstore.as_retriever(search_type="mmr", search_kwargs={"k": 8, "fetch_k": 50})
+    if search_type == "mmr":
+        retriever = vectorstore.as_retriever(
+            search_type="mmr", search_kwargs={"k": k, "fetch_k": fetch_k}
+        )
+    else:
+        retriever = vectorstore.as_retriever(
+            search_type=search_type, search_kwargs={"k": k}
+        )
     
     # --- PROMPT: Combines Grounded Reasoning with Citations ---
     template = """
