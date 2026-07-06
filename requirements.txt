@@ -15,3 +15,8 @@ pinecone-client>=3.2.0
 
 # DocArray (for in-memory search vector store)
 docarray>=0.40.0
+
+# Gemini RAG (geminiRag/)
+langchain-google-genai>=0.0.1
+langchain-chroma>=1.0.0
+pypdf>=6.1.3
